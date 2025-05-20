@@ -1,0 +1,886 @@
+Frage_Code,Frage_Titel,Antwort_Code,Antwort_Beschreibung
+F01,F01: Wohlbefinden in der Stadt Zürich,1,Sehr ungern
+F01,F01: Wohlbefinden in der Stadt Zürich,2,Eher ungern
+F01,F01: Wohlbefinden in der Stadt Zürich,3,Eher gerne
+F01,F01: Wohlbefinden in der Stadt Zürich,4,Sehr gerne
+F01,F01: Wohlbefinden in der Stadt Zürich,888,Weiss nicht
+F01,F01: Wohlbefinden in der Stadt Zürich,999,Keine Angabe
+F03,F03: Wohnform,1,Mietwohnung
+F03,F03: Wohnform,2,Genossenschaftswohnung
+F03,F03: Wohnform,3,gemieteten Haus
+F03,F03: Wohnform,4,eigenen Wohnung (Eigentum)
+F03,F03: Wohnform,5,eigenen Haus (Eigentum)
+F03,F03: Wohnform,6,Wohnung in einer Alterssiedlung (Alterswohnung)
+F03,F03: Wohnform,7,"Alterseinrichtung (Alterszentrum, Altersheim, Pflegeheim)"
+F03,F03: Wohnform,999,Keine Angabe
+F06,F06: Hindernisfreies Wohnen,1,Nein
+F06,F06: Hindernisfreies Wohnen,2,"Ja, aber mit Einschränkungen"
+F06,F06: Hindernisfreies Wohnen,3,"Ja, gut geeignet"
+F06,F06: Hindernisfreies Wohnen,888,Weiss nicht
+F06,F06: Hindernisfreies Wohnen,999,Keine Angabe
+F0701,F07.1: Zufriedenheit mit der Wohnsituation - Alles in allem mit Ihrer Wohnung/Ihrem Haus,1,Sehr unzufrieden
+F0701,F07.1: Zufriedenheit mit der Wohnsituation - Alles in allem mit Ihrer Wohnung/Ihrem Haus,2,Eher unzufrieden
+F0701,F07.1: Zufriedenheit mit der Wohnsituation - Alles in allem mit Ihrer Wohnung/Ihrem Haus,3,Eher zufrieden
+F0701,F07.1: Zufriedenheit mit der Wohnsituation - Alles in allem mit Ihrer Wohnung/Ihrem Haus,4,Sehr zufrieden
+F0701,F07.1: Zufriedenheit mit der Wohnsituation - Alles in allem mit Ihrer Wohnung/Ihrem Haus,888,Weiss nicht
+F0701,F07.1: Zufriedenheit mit der Wohnsituation - Alles in allem mit Ihrer Wohnung/Ihrem Haus,999,Keine Angabe
+F0702,F07.2: Zufriedenheit mit der Wohnsituation - Alles in allem mit Ihrer unmittelbaren Wohnumgebung (Quartier),1,Sehr unzufrieden
+F0702,F07.2: Zufriedenheit mit der Wohnsituation - Alles in allem mit Ihrer unmittelbaren Wohnumgebung (Quartier),2,Eher unzufrieden
+F0702,F07.2: Zufriedenheit mit der Wohnsituation - Alles in allem mit Ihrer unmittelbaren Wohnumgebung (Quartier),3,Eher zufrieden
+F0702,F07.2: Zufriedenheit mit der Wohnsituation - Alles in allem mit Ihrer unmittelbaren Wohnumgebung (Quartier),4,Sehr zufrieden
+F0702,F07.2: Zufriedenheit mit der Wohnsituation - Alles in allem mit Ihrer unmittelbaren Wohnumgebung (Quartier),888,Weiss nicht
+F0702,F07.2: Zufriedenheit mit der Wohnsituation - Alles in allem mit Ihrer unmittelbaren Wohnumgebung (Quartier),999,Keine Angabe
+F0703,"F07.3: Zufriedenheit mit der Wohnsituation - Mit dem Mietzins, den Sie zahlen",1,Sehr unzufrieden
+F0703,"F07.3: Zufriedenheit mit der Wohnsituation - Mit dem Mietzins, den Sie zahlen",2,Eher unzufrieden
+F0703,"F07.3: Zufriedenheit mit der Wohnsituation - Mit dem Mietzins, den Sie zahlen",3,Eher zufrieden
+F0703,"F07.3: Zufriedenheit mit der Wohnsituation - Mit dem Mietzins, den Sie zahlen",4,Sehr zufrieden
+F0703,"F07.3: Zufriedenheit mit der Wohnsituation - Mit dem Mietzins, den Sie zahlen",888,Weiss nicht
+F0703,"F07.3: Zufriedenheit mit der Wohnsituation - Mit dem Mietzins, den Sie zahlen",999,Keine Angabe
+F0704,F07.4: Zufriedenheit mit der Wohnsituation - Mit der Grösse der Wohnung/des Hauses,1,Sehr unzufrieden
+F0704,F07.4: Zufriedenheit mit der Wohnsituation - Mit der Grösse der Wohnung/des Hauses,2,Eher unzufrieden
+F0704,F07.4: Zufriedenheit mit der Wohnsituation - Mit der Grösse der Wohnung/des Hauses,3,Eher zufrieden
+F0704,F07.4: Zufriedenheit mit der Wohnsituation - Mit der Grösse der Wohnung/des Hauses,4,Sehr zufrieden
+F0704,F07.4: Zufriedenheit mit der Wohnsituation - Mit der Grösse der Wohnung/des Hauses,888,Weiss nicht
+F0704,F07.4: Zufriedenheit mit der Wohnsituation - Mit der Grösse der Wohnung/des Hauses,999,Keine Angabe
+F0901,F09.1: Zufriedenheit mit Quartierangeboten - Nachbarschaftskontakte,1,Sehr unzufrieden
+F0901,F09.1: Zufriedenheit mit Quartierangeboten - Nachbarschaftskontakte,2,Eher unzufrieden
+F0901,F09.1: Zufriedenheit mit Quartierangeboten - Nachbarschaftskontakte,3,Eher zufrieden
+F0901,F09.1: Zufriedenheit mit Quartierangeboten - Nachbarschaftskontakte,4,Sehr zufrieden
+F0901,F09.1: Zufriedenheit mit Quartierangeboten - Nachbarschaftskontakte,888,Weiss nicht
+F0901,F09.1: Zufriedenheit mit Quartierangeboten - Nachbarschaftskontakte,999,Keine Angabe
+F0902,F09.2: Zufriedenheit mit Quartierangeboten - Einkaufsmöglichkeiten in der Nähe,1,Sehr unzufrieden
+F0902,F09.2: Zufriedenheit mit Quartierangeboten - Einkaufsmöglichkeiten in der Nähe,2,Eher unzufrieden
+F0902,F09.2: Zufriedenheit mit Quartierangeboten - Einkaufsmöglichkeiten in der Nähe,3,Eher zufrieden
+F0902,F09.2: Zufriedenheit mit Quartierangeboten - Einkaufsmöglichkeiten in der Nähe,4,Sehr zufrieden
+F0902,F09.2: Zufriedenheit mit Quartierangeboten - Einkaufsmöglichkeiten in der Nähe,888,Weiss nicht
+F0902,F09.2: Zufriedenheit mit Quartierangeboten - Einkaufsmöglichkeiten in der Nähe,999,Keine Angabe
+F0903,F09.3: Zufriedenheit mit Quartierangeboten - Möglichkeiten der Freizeitgestaltung,1,Sehr unzufrieden
+F0903,F09.3: Zufriedenheit mit Quartierangeboten - Möglichkeiten der Freizeitgestaltung,2,Eher unzufrieden
+F0903,F09.3: Zufriedenheit mit Quartierangeboten - Möglichkeiten der Freizeitgestaltung,3,Eher zufrieden
+F0903,F09.3: Zufriedenheit mit Quartierangeboten - Möglichkeiten der Freizeitgestaltung,4,Sehr zufrieden
+F0903,F09.3: Zufriedenheit mit Quartierangeboten - Möglichkeiten der Freizeitgestaltung,888,Weiss nicht
+F0903,F09.3: Zufriedenheit mit Quartierangeboten - Möglichkeiten der Freizeitgestaltung,999,Keine Angabe
+F0904,F09.4: Zufriedenheit mit Quartierangeboten - Angebote an Restaurants und Cafés,1,Sehr unzufrieden
+F0904,F09.4: Zufriedenheit mit Quartierangeboten - Angebote an Restaurants und Cafés,2,Eher unzufrieden
+F0904,F09.4: Zufriedenheit mit Quartierangeboten - Angebote an Restaurants und Cafés,3,Eher zufrieden
+F0904,F09.4: Zufriedenheit mit Quartierangeboten - Angebote an Restaurants und Cafés,4,Sehr zufrieden
+F0904,F09.4: Zufriedenheit mit Quartierangeboten - Angebote an Restaurants und Cafés,888,Weiss nicht
+F0904,F09.4: Zufriedenheit mit Quartierangeboten - Angebote an Restaurants und Cafés,999,Keine Angabe
+F0905,F09.5: Zufriedenheit mit Quartierangeboten - Nähe zum öffentlichen Verkehr,1,Sehr unzufrieden
+F0905,F09.5: Zufriedenheit mit Quartierangeboten - Nähe zum öffentlichen Verkehr,2,Eher unzufrieden
+F0905,F09.5: Zufriedenheit mit Quartierangeboten - Nähe zum öffentlichen Verkehr,3,Eher zufrieden
+F0905,F09.5: Zufriedenheit mit Quartierangeboten - Nähe zum öffentlichen Verkehr,4,Sehr zufrieden
+F0905,F09.5: Zufriedenheit mit Quartierangeboten - Nähe zum öffentlichen Verkehr,888,Weiss nicht
+F0905,F09.5: Zufriedenheit mit Quartierangeboten - Nähe zum öffentlichen Verkehr,999,Keine Angabe
+F0906,F09.6: Zufriedenheit mit Quartierangeboten - Erreichbarkeit von Arztpraxen und Apotheken im Quartier,1,Sehr unzufrieden
+F0906,F09.6: Zufriedenheit mit Quartierangeboten - Erreichbarkeit von Arztpraxen und Apotheken im Quartier,2,Eher unzufrieden
+F0906,F09.6: Zufriedenheit mit Quartierangeboten - Erreichbarkeit von Arztpraxen und Apotheken im Quartier,3,Eher zufrieden
+F0906,F09.6: Zufriedenheit mit Quartierangeboten - Erreichbarkeit von Arztpraxen und Apotheken im Quartier,4,Sehr zufrieden
+F0906,F09.6: Zufriedenheit mit Quartierangeboten - Erreichbarkeit von Arztpraxen und Apotheken im Quartier,888,Weiss nicht
+F0906,F09.6: Zufriedenheit mit Quartierangeboten - Erreichbarkeit von Arztpraxen und Apotheken im Quartier,999,Keine Angabe
+F0907,"F09.7: Zufriedenheit mit Quartierangeboten - Öffentlicher Grünraum in Ihrem Quartier, z.B. Parks, Wiesen",1,Sehr unzufrieden
+F0907,"F09.7: Zufriedenheit mit Quartierangeboten - Öffentlicher Grünraum in Ihrem Quartier, z.B. Parks, Wiesen",2,Eher unzufrieden
+F0907,"F09.7: Zufriedenheit mit Quartierangeboten - Öffentlicher Grünraum in Ihrem Quartier, z.B. Parks, Wiesen",3,Eher zufrieden
+F0907,"F09.7: Zufriedenheit mit Quartierangeboten - Öffentlicher Grünraum in Ihrem Quartier, z.B. Parks, Wiesen",4,Sehr zufrieden
+F0907,"F09.7: Zufriedenheit mit Quartierangeboten - Öffentlicher Grünraum in Ihrem Quartier, z.B. Parks, Wiesen",888,Weiss nicht
+F0907,"F09.7: Zufriedenheit mit Quartierangeboten - Öffentlicher Grünraum in Ihrem Quartier, z.B. Parks, Wiesen",999,Keine Angabe
+F0908,F09.8: Zufriedenheit mit Quartierangeboten - Sauberkeit in Ihrem Quartier,1,Sehr unzufrieden
+F0908,F09.8: Zufriedenheit mit Quartierangeboten - Sauberkeit in Ihrem Quartier,2,Eher unzufrieden
+F0908,F09.8: Zufriedenheit mit Quartierangeboten - Sauberkeit in Ihrem Quartier,3,Eher zufrieden
+F0908,F09.8: Zufriedenheit mit Quartierangeboten - Sauberkeit in Ihrem Quartier,4,Sehr zufrieden
+F0908,F09.8: Zufriedenheit mit Quartierangeboten - Sauberkeit in Ihrem Quartier,888,Weiss nicht
+F0908,F09.8: Zufriedenheit mit Quartierangeboten - Sauberkeit in Ihrem Quartier,999,Keine Angabe
+F0909,F09.9: Zufriedenheit mit Quartierangeboten - Öffentliche Sicherheit in Ihrem Quartier,1,Sehr unzufrieden
+F0909,F09.9: Zufriedenheit mit Quartierangeboten - Öffentliche Sicherheit in Ihrem Quartier,2,Eher unzufrieden
+F0909,F09.9: Zufriedenheit mit Quartierangeboten - Öffentliche Sicherheit in Ihrem Quartier,3,Eher zufrieden
+F0909,F09.9: Zufriedenheit mit Quartierangeboten - Öffentliche Sicherheit in Ihrem Quartier,4,Sehr zufrieden
+F0909,F09.9: Zufriedenheit mit Quartierangeboten - Öffentliche Sicherheit in Ihrem Quartier,888,Weiss nicht
+F0909,F09.9: Zufriedenheit mit Quartierangeboten - Öffentliche Sicherheit in Ihrem Quartier,999,Keine Angabe
+F0910,F09.10: Zufriedenheit mit Quartierangeboten - Ruhe in Ihrem Quartier,1,Sehr unzufrieden
+F0910,F09.10: Zufriedenheit mit Quartierangeboten - Ruhe in Ihrem Quartier,2,Eher unzufrieden
+F0910,F09.10: Zufriedenheit mit Quartierangeboten - Ruhe in Ihrem Quartier,3,Eher zufrieden
+F0910,F09.10: Zufriedenheit mit Quartierangeboten - Ruhe in Ihrem Quartier,4,Sehr zufrieden
+F0910,F09.10: Zufriedenheit mit Quartierangeboten - Ruhe in Ihrem Quartier,888,Weiss nicht
+F0910,F09.10: Zufriedenheit mit Quartierangeboten - Ruhe in Ihrem Quartier,999,Keine Angabe
+F0911,F09.11: Zufriedenheit mit Quartierangeboten - Sitzgelegenheiten für Pausen beim Spazierengehen,1,Sehr unzufrieden
+F0911,F09.11: Zufriedenheit mit Quartierangeboten - Sitzgelegenheiten für Pausen beim Spazierengehen,2,Eher unzufrieden
+F0911,F09.11: Zufriedenheit mit Quartierangeboten - Sitzgelegenheiten für Pausen beim Spazierengehen,3,Eher zufrieden
+F0911,F09.11: Zufriedenheit mit Quartierangeboten - Sitzgelegenheiten für Pausen beim Spazierengehen,4,Sehr zufrieden
+F0911,F09.11: Zufriedenheit mit Quartierangeboten - Sitzgelegenheiten für Pausen beim Spazierengehen,888,Weiss nicht
+F0911,F09.11: Zufriedenheit mit Quartierangeboten - Sitzgelegenheiten für Pausen beim Spazierengehen,999,Keine Angabe
+F0912,"F09.12: Zufriedenheit mit Quartierangeboten - Möglichkeiten, Ihre Anliegen bzgl. des Quartiers einzubringen",1,Sehr unzufrieden
+F0912,"F09.12: Zufriedenheit mit Quartierangeboten - Möglichkeiten, Ihre Anliegen bzgl. des Quartiers einzubringen",2,Eher unzufrieden
+F0912,"F09.12: Zufriedenheit mit Quartierangeboten - Möglichkeiten, Ihre Anliegen bzgl. des Quartiers einzubringen",3,Eher zufrieden
+F0912,"F09.12: Zufriedenheit mit Quartierangeboten - Möglichkeiten, Ihre Anliegen bzgl. des Quartiers einzubringen",4,Sehr zufrieden
+F0912,"F09.12: Zufriedenheit mit Quartierangeboten - Möglichkeiten, Ihre Anliegen bzgl. des Quartiers einzubringen",888,Weiss nicht
+F0912,"F09.12: Zufriedenheit mit Quartierangeboten - Möglichkeiten, Ihre Anliegen bzgl. des Quartiers einzubringen",999,Keine Angabe
+F0913,F09.13: Zufriedenheit mit Quartierangeboten - Angebote für ältere Menschen im Quartier,1,Sehr unzufrieden
+F0913,F09.13: Zufriedenheit mit Quartierangeboten - Angebote für ältere Menschen im Quartier,2,Eher unzufrieden
+F0913,F09.13: Zufriedenheit mit Quartierangeboten - Angebote für ältere Menschen im Quartier,3,Eher zufrieden
+F0913,F09.13: Zufriedenheit mit Quartierangeboten - Angebote für ältere Menschen im Quartier,4,Sehr zufrieden
+F0913,F09.13: Zufriedenheit mit Quartierangeboten - Angebote für ältere Menschen im Quartier,888,Weiss nicht
+F0913,F09.13: Zufriedenheit mit Quartierangeboten - Angebote für ältere Menschen im Quartier,999,Keine Angabe
+F10,F10: Alles vorhanden im Quartier,1,Gar nichts vorhanden
+F10,F10: Alles vorhanden im Quartier,2,Eher nein
+F10,F10: Alles vorhanden im Quartier,3,Eher ja
+F10,F10: Alles vorhanden im Quartier,4,"Ja, alles vorhanden"
+F10,F10: Alles vorhanden im Quartier,888,Weiss nicht
+F10,F10: Alles vorhanden im Quartier,999,Keine Angabe
+F11_1,F11: Nicht alles vorhanden im Quartier - Poststelle,0,No
+F11_1,F11: Nicht alles vorhanden im Quartier - Poststelle,1,Yes
+F11_2,F11: Nicht alles vorhanden im Quartier - Einkaufsmöglichkeiten,0,No
+F11_2,F11: Nicht alles vorhanden im Quartier - Einkaufsmöglichkeiten,1,Yes
+F11_3,F11: Nicht alles vorhanden im Quartier - Restaurant/Kaffees,0,No
+F11_3,F11: Nicht alles vorhanden im Quartier - Restaurant/Kaffees,1,Yes
+F11_4,F11: Nicht alles vorhanden im Quartier - Ticketverkauf ÖV,0,No
+F11_4,F11: Nicht alles vorhanden im Quartier - Ticketverkauf ÖV,1,Yes
+F11_5,F11: Nicht alles vorhanden im Quartier - Sitzgelegenheiten,0,No
+F11_5,F11: Nicht alles vorhanden im Quartier - Sitzgelegenheiten,1,Yes
+F11_6,F11: Nicht alles vorhanden im Quartier - Alterswohnungen,0,No
+F11_6,F11: Nicht alles vorhanden im Quartier - Alterswohnungen,1,Yes
+F11_7,F11: Nicht alles vorhanden im Quartier - Überwachung/Polizeipräsenz,0,No
+F11_7,F11: Nicht alles vorhanden im Quartier - Überwachung/Polizeipräsenz,1,Yes
+F11_8,F11: Nicht alles vorhanden im Quartier - Parkanlage/Grünflächen,0,No
+F11_8,F11: Nicht alles vorhanden im Quartier - Parkanlage/Grünflächen,1,Yes
+F11_9,F11: Nicht alles vorhanden im Quartier - Parkmöglichkeiten,0,No
+F11_9,F11: Nicht alles vorhanden im Quartier - Parkmöglichkeiten,1,Yes
+F11_10,F11: Nicht alles vorhanden im Quartier - ÖV-Haltestelle,0,No
+F11_10,F11: Nicht alles vorhanden im Quartier - ÖV-Haltestelle,1,Yes
+F11_11,F11: Nicht alles vorhanden im Quartier - Medizinische Versorgung,0,No
+F11_11,F11: Nicht alles vorhanden im Quartier - Medizinische Versorgung,1,Yes
+F11_12,F11: Nicht alles vorhanden im Quartier - Treffpunkte,0,No
+F11_12,F11: Nicht alles vorhanden im Quartier - Treffpunkte,1,Yes
+F11_13,F11: Nicht alles vorhanden im Quartier - Anderes,0,No
+F11_13,F11: Nicht alles vorhanden im Quartier - Anderes,1,Yes
+F11_14,F11: Nicht alles vorhanden im Quartier - Weiss nicht,0,No
+F11_14,F11: Nicht alles vorhanden im Quartier - Weiss nicht,1,Yes
+F11_15,F11: Nicht alles vorhanden im Quartier - Keine Angabe,0,No
+F11_15,F11: Nicht alles vorhanden im Quartier - Keine Angabe,1,Yes
+F1201,F12.1: Kontakthäufigkeit - Eigene/s Kind(er),1,Nie
+F1201,F12.1: Kontakthäufigkeit - Eigene/s Kind(er),2,Seltener
+F1201,F12.1: Kontakthäufigkeit - Eigene/s Kind(er),3,Mind. einmal pro Monat
+F1201,F12.1: Kontakthäufigkeit - Eigene/s Kind(er),4,Mind. einmal pro Woche
+F1201,F12.1: Kontakthäufigkeit - Eigene/s Kind(er),5,Täglich oder fast täglich
+F1201,F12.1: Kontakthäufigkeit - Eigene/s Kind(er),88,Nicht vorhanden / verstorben
+F1201,F12.1: Kontakthäufigkeit - Eigene/s Kind(er),888,Weiss nicht
+F1201,F12.1: Kontakthäufigkeit - Eigene/s Kind(er),999,Keine Angabe
+F1202,F12.2: Kontakthäufigkeit - Enkelkind(er),1,Nie
+F1202,F12.2: Kontakthäufigkeit - Enkelkind(er),2,Seltener
+F1202,F12.2: Kontakthäufigkeit - Enkelkind(er),3,Mind. einmal pro Monat
+F1202,F12.2: Kontakthäufigkeit - Enkelkind(er),4,Mind. einmal pro Woche
+F1202,F12.2: Kontakthäufigkeit - Enkelkind(er),5,Täglich oder fast täglich
+F1202,F12.2: Kontakthäufigkeit - Enkelkind(er),88,Nicht vorhanden / verstorben
+F1202,F12.2: Kontakthäufigkeit - Enkelkind(er),888,Weiss nicht
+F1202,F12.2: Kontakthäufigkeit - Enkelkind(er),999,Keine Angabe
+F1203,F12.3: Kontakthäufigkeit - Eltern/Elternteil,1,Nie
+F1203,F12.3: Kontakthäufigkeit - Eltern/Elternteil,2,Seltener
+F1203,F12.3: Kontakthäufigkeit - Eltern/Elternteil,3,Mind. einmal pro Monat
+F1203,F12.3: Kontakthäufigkeit - Eltern/Elternteil,4,Mind. einmal pro Woche
+F1203,F12.3: Kontakthäufigkeit - Eltern/Elternteil,5,Täglich oder fast täglich
+F1203,F12.3: Kontakthäufigkeit - Eltern/Elternteil,88,Nicht vorhanden / verstorben
+F1203,F12.3: Kontakthäufigkeit - Eltern/Elternteil,888,Weiss nicht
+F1203,F12.3: Kontakthäufigkeit - Eltern/Elternteil,999,Keine Angabe
+F1204,F12.4: Kontakthäufigkeit - Geschwister oder andere Familienangehörige,1,Nie
+F1204,F12.4: Kontakthäufigkeit - Geschwister oder andere Familienangehörige,2,Seltener
+F1204,F12.4: Kontakthäufigkeit - Geschwister oder andere Familienangehörige,3,Mind. einmal pro Monat
+F1204,F12.4: Kontakthäufigkeit - Geschwister oder andere Familienangehörige,4,Mind. einmal pro Woche
+F1204,F12.4: Kontakthäufigkeit - Geschwister oder andere Familienangehörige,5,Täglich oder fast täglich
+F1204,F12.4: Kontakthäufigkeit - Geschwister oder andere Familienangehörige,88,Nicht vorhanden / verstorben
+F1204,F12.4: Kontakthäufigkeit - Geschwister oder andere Familienangehörige,888,Weiss nicht
+F1204,F12.4: Kontakthäufigkeit - Geschwister oder andere Familienangehörige,999,Keine Angabe
+F1205,F12.5: Kontakthäufigkeit - Freunde und Bekannte,1,Nie
+F1205,F12.5: Kontakthäufigkeit - Freunde und Bekannte,2,Seltener
+F1205,F12.5: Kontakthäufigkeit - Freunde und Bekannte,3,Mind. einmal pro Monat
+F1205,F12.5: Kontakthäufigkeit - Freunde und Bekannte,4,Mind. einmal pro Woche
+F1205,F12.5: Kontakthäufigkeit - Freunde und Bekannte,5,Täglich oder fast täglich
+F1205,F12.5: Kontakthäufigkeit - Freunde und Bekannte,88,Nicht vorhanden / verstorben
+F1205,F12.5: Kontakthäufigkeit - Freunde und Bekannte,888,Weiss nicht
+F1205,F12.5: Kontakthäufigkeit - Freunde und Bekannte,999,Keine Angabe
+F1206,F12.6: Kontakthäufigkeit - Nachbarn,1,Nie
+F1206,F12.6: Kontakthäufigkeit - Nachbarn,2,Seltener
+F1206,F12.6: Kontakthäufigkeit - Nachbarn,3,Mind. einmal pro Monat
+F1206,F12.6: Kontakthäufigkeit - Nachbarn,4,Mind. einmal pro Woche
+F1206,F12.6: Kontakthäufigkeit - Nachbarn,5,Täglich oder fast täglich
+F1206,F12.6: Kontakthäufigkeit - Nachbarn,88,Nicht vorhanden / verstorben
+F1206,F12.6: Kontakthäufigkeit - Nachbarn,888,Weiss nicht
+F1206,F12.6: Kontakthäufigkeit - Nachbarn,999,Keine Angabe
+F1301,F13.1: Gegenseitige Hilfen - Eigene/s Kind(er),1,Nie / aktuell kein Bedarf
+F1301,F13.1: Gegenseitige Hilfen - Eigene/s Kind(er),2,Seltener
+F1301,F13.1: Gegenseitige Hilfen - Eigene/s Kind(er),3,Mind. einmal pro Monat
+F1301,F13.1: Gegenseitige Hilfen - Eigene/s Kind(er),4,Mind. einmal pro Woche
+F1301,F13.1: Gegenseitige Hilfen - Eigene/s Kind(er),5,Täglich oder fast täglich
+F1301,F13.1: Gegenseitige Hilfen - Eigene/s Kind(er),88,Nicht vorhanden / verstorben
+F1301,F13.1: Gegenseitige Hilfen - Eigene/s Kind(er),888,Weiss nicht
+F1301,F13.1: Gegenseitige Hilfen - Eigene/s Kind(er),999,Keine Angabe
+F1302,F13.2: Gegenseitige Hilfen - Enkelkind(er),1,Nie / aktuell kein Bedarf
+F1302,F13.2: Gegenseitige Hilfen - Enkelkind(er),2,Seltener
+F1302,F13.2: Gegenseitige Hilfen - Enkelkind(er),3,Mind. einmal pro Monat
+F1302,F13.2: Gegenseitige Hilfen - Enkelkind(er),4,Mind. einmal pro Woche
+F1302,F13.2: Gegenseitige Hilfen - Enkelkind(er),5,Täglich oder fast täglich
+F1302,F13.2: Gegenseitige Hilfen - Enkelkind(er),88,Nicht vorhanden / verstorben
+F1302,F13.2: Gegenseitige Hilfen - Enkelkind(er),888,Weiss nicht
+F1302,F13.2: Gegenseitige Hilfen - Enkelkind(er),999,Keine Angabe
+F1303,F13.3: Gegenseitige Hilfen - Eltern/Elternteil,1,Nie / aktuell kein Bedarf
+F1303,F13.3: Gegenseitige Hilfen - Eltern/Elternteil,2,Seltener
+F1303,F13.3: Gegenseitige Hilfen - Eltern/Elternteil,3,Mind. einmal pro Monat
+F1303,F13.3: Gegenseitige Hilfen - Eltern/Elternteil,4,Mind. einmal pro Woche
+F1303,F13.3: Gegenseitige Hilfen - Eltern/Elternteil,5,Täglich oder fast täglich
+F1303,F13.3: Gegenseitige Hilfen - Eltern/Elternteil,88,Nicht vorhanden / verstorben
+F1303,F13.3: Gegenseitige Hilfen - Eltern/Elternteil,888,Weiss nicht
+F1303,F13.3: Gegenseitige Hilfen - Eltern/Elternteil,999,Keine Angabe
+F1304,F13.4: Gegenseitige Hilfen - Geschwister oder andere Familienangehörige,1,Nie / aktuell kein Bedarf
+F1304,F13.4: Gegenseitige Hilfen - Geschwister oder andere Familienangehörige,2,Seltener
+F1304,F13.4: Gegenseitige Hilfen - Geschwister oder andere Familienangehörige,3,Mind. einmal pro Monat
+F1304,F13.4: Gegenseitige Hilfen - Geschwister oder andere Familienangehörige,4,Mind. einmal pro Woche
+F1304,F13.4: Gegenseitige Hilfen - Geschwister oder andere Familienangehörige,5,Täglich oder fast täglich
+F1304,F13.4: Gegenseitige Hilfen - Geschwister oder andere Familienangehörige,88,Nicht vorhanden / verstorben
+F1304,F13.4: Gegenseitige Hilfen - Geschwister oder andere Familienangehörige,888,Weiss nicht
+F1304,F13.4: Gegenseitige Hilfen - Geschwister oder andere Familienangehörige,999,Keine Angabe
+F1305,F13.5: Gegenseitige Hilfen - Freunde und Bekannte,1,Nie / aktuell kein Bedarf
+F1305,F13.5: Gegenseitige Hilfen - Freunde und Bekannte,2,Seltener
+F1305,F13.5: Gegenseitige Hilfen - Freunde und Bekannte,3,Mind. einmal pro Monat
+F1305,F13.5: Gegenseitige Hilfen - Freunde und Bekannte,4,Mind. einmal pro Woche
+F1305,F13.5: Gegenseitige Hilfen - Freunde und Bekannte,5,Täglich oder fast täglich
+F1305,F13.5: Gegenseitige Hilfen - Freunde und Bekannte,88,Nicht vorhanden / verstorben
+F1305,F13.5: Gegenseitige Hilfen - Freunde und Bekannte,888,Weiss nicht
+F1305,F13.5: Gegenseitige Hilfen - Freunde und Bekannte,999,Keine Angabe
+F1306,F13.6: Gegenseitige Hilfen - Nachbarn,1,Nie / aktuell kein Bedarf
+F1306,F13.6: Gegenseitige Hilfen - Nachbarn,2,Seltener
+F1306,F13.6: Gegenseitige Hilfen - Nachbarn,3,Mind. einmal pro Monat
+F1306,F13.6: Gegenseitige Hilfen - Nachbarn,4,Mind. einmal pro Woche
+F1306,F13.6: Gegenseitige Hilfen - Nachbarn,5,Täglich oder fast täglich
+F1306,F13.6: Gegenseitige Hilfen - Nachbarn,88,Nicht vorhanden / verstorben
+F1306,F13.6: Gegenseitige Hilfen - Nachbarn,888,Weiss nicht
+F1306,F13.6: Gegenseitige Hilfen - Nachbarn,999,Keine Angabe
+F1401,F14.1: Gegebene Hilfe - Eigene/s Kind(er),1,Nie / aktuell kein Bedarf
+F1401,F14.1: Gegebene Hilfe - Eigene/s Kind(er),2,Seltener
+F1401,F14.1: Gegebene Hilfe - Eigene/s Kind(er),3,Mind. einmal pro Monat
+F1401,F14.1: Gegebene Hilfe - Eigene/s Kind(er),4,Mind. einmal pro Woche
+F1401,F14.1: Gegebene Hilfe - Eigene/s Kind(er),5,Täglich oder fast täglich
+F1401,F14.1: Gegebene Hilfe - Eigene/s Kind(er),88,Nicht vorhanden / verstorben
+F1401,F14.1: Gegebene Hilfe - Eigene/s Kind(er),888,Weiss nicht
+F1401,F14.1: Gegebene Hilfe - Eigene/s Kind(er),999,Keine Angabe
+F1402,F14.2: Gegebene Hilfe - Enkelkind(er),1,Nie / aktuell kein Bedarf
+F1402,F14.2: Gegebene Hilfe - Enkelkind(er),2,Seltener
+F1402,F14.2: Gegebene Hilfe - Enkelkind(er),3,Mind. einmal pro Monat
+F1402,F14.2: Gegebene Hilfe - Enkelkind(er),4,Mind. einmal pro Woche
+F1402,F14.2: Gegebene Hilfe - Enkelkind(er),5,Täglich oder fast täglich
+F1402,F14.2: Gegebene Hilfe - Enkelkind(er),88,Nicht vorhanden / verstorben
+F1402,F14.2: Gegebene Hilfe - Enkelkind(er),888,Weiss nicht
+F1402,F14.2: Gegebene Hilfe - Enkelkind(er),999,Keine Angabe
+F1403,F14.3: Gegebene Hilfe - Eltern/Elternteil,1,Nie / aktuell kein Bedarf
+F1403,F14.3: Gegebene Hilfe - Eltern/Elternteil,2,Seltener
+F1403,F14.3: Gegebene Hilfe - Eltern/Elternteil,3,Mind. einmal pro Monat
+F1403,F14.3: Gegebene Hilfe - Eltern/Elternteil,4,Mind. einmal pro Woche
+F1403,F14.3: Gegebene Hilfe - Eltern/Elternteil,5,Täglich oder fast täglich
+F1403,F14.3: Gegebene Hilfe - Eltern/Elternteil,88,Nicht vorhanden / verstorben
+F1403,F14.3: Gegebene Hilfe - Eltern/Elternteil,888,Weiss nicht
+F1403,F14.3: Gegebene Hilfe - Eltern/Elternteil,999,Keine Angabe
+F1404,F14.4: Gegebene Hilfe - Geschwister oder andere Familienangehörige,1,Nie / aktuell kein Bedarf
+F1404,F14.4: Gegebene Hilfe - Geschwister oder andere Familienangehörige,2,Seltener
+F1404,F14.4: Gegebene Hilfe - Geschwister oder andere Familienangehörige,3,Mind. einmal pro Monat
+F1404,F14.4: Gegebene Hilfe - Geschwister oder andere Familienangehörige,4,Mind. einmal pro Woche
+F1404,F14.4: Gegebene Hilfe - Geschwister oder andere Familienangehörige,5,Täglich oder fast täglich
+F1404,F14.4: Gegebene Hilfe - Geschwister oder andere Familienangehörige,88,Nicht vorhanden / verstorben
+F1404,F14.4: Gegebene Hilfe - Geschwister oder andere Familienangehörige,888,Weiss nicht
+F1404,F14.4: Gegebene Hilfe - Geschwister oder andere Familienangehörige,999,Keine Angabe
+F1405,F14.5: Gegebene Hilfe - Freunde und Bekannte,1,Nie / aktuell kein Bedarf
+F1405,F14.5: Gegebene Hilfe - Freunde und Bekannte,2,Seltener
+F1405,F14.5: Gegebene Hilfe - Freunde und Bekannte,3,Mind. einmal pro Monat
+F1405,F14.5: Gegebene Hilfe - Freunde und Bekannte,4,Mind. einmal pro Woche
+F1405,F14.5: Gegebene Hilfe - Freunde und Bekannte,5,Täglich oder fast täglich
+F1405,F14.5: Gegebene Hilfe - Freunde und Bekannte,88,Nicht vorhanden / verstorben
+F1405,F14.5: Gegebene Hilfe - Freunde und Bekannte,888,Weiss nicht
+F1405,F14.5: Gegebene Hilfe - Freunde und Bekannte,999,Keine Angabe
+F1406,F14.6: Gegebene Hilfe - Nachbarn,1,Nie / aktuell kein Bedarf
+F1406,F14.6: Gegebene Hilfe - Nachbarn,2,Seltener
+F1406,F14.6: Gegebene Hilfe - Nachbarn,3,Mind. einmal pro Monat
+F1406,F14.6: Gegebene Hilfe - Nachbarn,4,Mind. einmal pro Woche
+F1406,F14.6: Gegebene Hilfe - Nachbarn,5,Täglich oder fast täglich
+F1406,F14.6: Gegebene Hilfe - Nachbarn,88,Nicht vorhanden / verstorben
+F1406,F14.6: Gegebene Hilfe - Nachbarn,888,Weiss nicht
+F1406,F14.6: Gegebene Hilfe - Nachbarn,999,Keine Angabe
+F15,F15: Einsamkeit,1,Nie
+F15,F15: Einsamkeit,2,Manchmal
+F15,F15: Einsamkeit,3,Ziemlich häufig
+F15,F15: Einsamkeit,4,Sehr häufig
+F15,F15: Einsamkeit,888,Weiss nicht
+F15,F15: Einsamkeit,999,Keine Angabe
+F16,F16: Haustiere,1,Ja
+F16,F16: Haustiere,2,Nein
+F16,F16: Haustiere,888,Weiss nicht
+F16,F16: Haustiere,999,Keine Angabe
+F17_1,F17: Bedarfe an Kontakte - Vermehrte persönliche Kontakte/Besuche,0,No
+F17_1,F17: Bedarfe an Kontakte - Vermehrte persönliche Kontakte/Besuche,1,Yes
+F17_2,F17: Bedarfe an Kontakte - Vermehrte Handreichungen von Nachbarn,0,No
+F17_2,F17: Bedarfe an Kontakte - Vermehrte Handreichungen von Nachbarn,1,Yes
+F17_3,F17: Bedarfe an Kontakte - Vermehrter Einsatz einer Haushaltshilfe,0,No
+F17_3,F17: Bedarfe an Kontakte - Vermehrter Einsatz einer Haushaltshilfe,1,Yes
+F17_4,F17: Bedarfe an Kontakte - Vermehrte Hilfeleistungen von Familienangehörigen,0,No
+F17_4,F17: Bedarfe an Kontakte - Vermehrte Hilfeleistungen von Familienangehörigen,1,Yes
+F17_5,F17: Bedarfe an Kontakte - Nichts von den oben genannten Punkten,0,No
+F17_5,F17: Bedarfe an Kontakte - Nichts von den oben genannten Punkten,1,Yes
+F17_6,F17: Bedarfe an Kontakte - Weiss nicht,0,No
+F17_6,F17: Bedarfe an Kontakte - Weiss nicht,1,Yes
+F17_7,F17: Bedarfe an Kontakte - Keine Angabe,0,No
+F17_7,F17: Bedarfe an Kontakte - Keine Angabe,1,Yes
+F1801,F18.1: Teilhabe am gesellschaftlichen Leben und wahrgenommene Autonomie - Ich fühle mich im sozialen Umfeld ausserhalb meiner Familie gut eingebunden,1,Trifft gar nicht zu
+F1801,F18.1: Teilhabe am gesellschaftlichen Leben und wahrgenommene Autonomie - Ich fühle mich im sozialen Umfeld ausserhalb meiner Familie gut eingebunden,2,Trifft eher nicht zu
+F1801,F18.1: Teilhabe am gesellschaftlichen Leben und wahrgenommene Autonomie - Ich fühle mich im sozialen Umfeld ausserhalb meiner Familie gut eingebunden,3,Trifft eher zu
+F1801,F18.1: Teilhabe am gesellschaftlichen Leben und wahrgenommene Autonomie - Ich fühle mich im sozialen Umfeld ausserhalb meiner Familie gut eingebunden,4,Trifft voll und ganz zu
+F1801,F18.1: Teilhabe am gesellschaftlichen Leben und wahrgenommene Autonomie - Ich fühle mich im sozialen Umfeld ausserhalb meiner Familie gut eingebunden,888,Weiss nicht
+F1801,F18.1: Teilhabe am gesellschaftlichen Leben und wahrgenommene Autonomie - Ich fühle mich im sozialen Umfeld ausserhalb meiner Familie gut eingebunden,999,Keine Angabe
+F1802,F18.2: Teilhabe am gesellschaftlichen Leben und wahrgenommene Autonomie - Ich komme im Alter gut allein zurecht,1,Trifft gar nicht zu
+F1802,F18.2: Teilhabe am gesellschaftlichen Leben und wahrgenommene Autonomie - Ich komme im Alter gut allein zurecht,2,Trifft eher nicht zu
+F1802,F18.2: Teilhabe am gesellschaftlichen Leben und wahrgenommene Autonomie - Ich komme im Alter gut allein zurecht,3,Trifft eher zu
+F1802,F18.2: Teilhabe am gesellschaftlichen Leben und wahrgenommene Autonomie - Ich komme im Alter gut allein zurecht,4,Trifft voll und ganz zu
+F1802,F18.2: Teilhabe am gesellschaftlichen Leben und wahrgenommene Autonomie - Ich komme im Alter gut allein zurecht,888,Weiss nicht
+F1802,F18.2: Teilhabe am gesellschaftlichen Leben und wahrgenommene Autonomie - Ich komme im Alter gut allein zurecht,999,Keine Angabe
+F1803,F18.3: Teilhabe am gesellschaftlichen Leben und wahrgenommene Autonomie - Ich gestalte mein Leben nach meinen eigenen Vorstellungen,1,Trifft gar nicht zu
+F1803,F18.3: Teilhabe am gesellschaftlichen Leben und wahrgenommene Autonomie - Ich gestalte mein Leben nach meinen eigenen Vorstellungen,2,Trifft eher nicht zu
+F1803,F18.3: Teilhabe am gesellschaftlichen Leben und wahrgenommene Autonomie - Ich gestalte mein Leben nach meinen eigenen Vorstellungen,3,Trifft eher zu
+F1803,F18.3: Teilhabe am gesellschaftlichen Leben und wahrgenommene Autonomie - Ich gestalte mein Leben nach meinen eigenen Vorstellungen,4,Trifft voll und ganz zu
+F1803,F18.3: Teilhabe am gesellschaftlichen Leben und wahrgenommene Autonomie - Ich gestalte mein Leben nach meinen eigenen Vorstellungen,888,Weiss nicht
+F1803,F18.3: Teilhabe am gesellschaftlichen Leben und wahrgenommene Autonomie - Ich gestalte mein Leben nach meinen eigenen Vorstellungen,999,Keine Angabe
+F19_1,F19: Pflegebedürftigkeit - Ich selbst,0,No
+F19_1,F19: Pflegebedürftigkeit - Ich selbst,1,Yes
+F19_2,F19: Pflegebedürftigkeit - Meine Partnerin/Mein Partner,0,No
+F19_2,F19: Pflegebedürftigkeit - Meine Partnerin/Mein Partner,1,Yes
+F19_3,F19: Pflegebedürftigkeit - Jemand anderes im Haushalt,0,No
+F19_3,F19: Pflegebedürftigkeit - Jemand anderes im Haushalt,1,Yes
+F19_4,F19: Pflegebedürftigkeit - Niemand,0,No
+F19_4,F19: Pflegebedürftigkeit - Niemand,1,Yes
+F19_5,F19: Pflegebedürftigkeit - Weiss nicht,0,No
+F19_5,F19: Pflegebedürftigkeit - Weiss nicht,1,Yes
+F19_6,F19: Pflegebedürftigkeit - Keine Angabe,0,No
+F19_6,F19: Pflegebedürftigkeit - Keine Angabe,1,Yes
+F20_1,F20: Dienstleistungen (organisierte Hilfe) - Pflegedienst (Spitex),0,No
+F20_1,F20: Dienstleistungen (organisierte Hilfe) - Pflegedienst (Spitex),1,Yes
+F20_2,"F20: Dienstleistungen (organisierte Hilfe) - Hauswirtschaftshilfe (Reinigung, Wäsche, usw.)",0,No
+F20_2,"F20: Dienstleistungen (organisierte Hilfe) - Hauswirtschaftshilfe (Reinigung, Wäsche, usw.)",1,Yes
+F20_3,F20: Dienstleistungen (organisierte Hilfe) - Mahlzeitdienst (Essen auf Rädern),0,No
+F20_3,F20: Dienstleistungen (organisierte Hilfe) - Mahlzeitdienst (Essen auf Rädern),1,Yes
+F20_4,F20: Dienstleistungen (organisierte Hilfe) - Fahrdienste,0,No
+F20_4,F20: Dienstleistungen (organisierte Hilfe) - Fahrdienste,1,Yes
+F20_5,F20: Dienstleistungen (organisierte Hilfe) - Tagesbetreuung (Tageszentrum),0,No
+F20_5,F20: Dienstleistungen (organisierte Hilfe) - Tagesbetreuung (Tageszentrum),1,Yes
+F20_6,F20: Dienstleistungen (organisierte Hilfe) - Ambulante Betreuung zuhause,0,No
+F20_6,F20: Dienstleistungen (organisierte Hilfe) - Ambulante Betreuung zuhause,1,Yes
+F20_7,F20: Dienstleistungen (organisierte Hilfe) - Nutze nichts davon,0,No
+F20_7,F20: Dienstleistungen (organisierte Hilfe) - Nutze nichts davon,1,Yes
+F20_8,F20: Dienstleistungen (organisierte Hilfe) - Weiss nicht,0,No
+F20_8,F20: Dienstleistungen (organisierte Hilfe) - Weiss nicht,1,Yes
+F20_9,F20: Dienstleistungen (organisierte Hilfe) - Keine Angabe,0,No
+F20_9,F20: Dienstleistungen (organisierte Hilfe) - Keine Angabe,1,Yes
+F21,F21: Subjektive Gesundheit,1,Gar nicht gut
+F21,F21: Subjektive Gesundheit,2,Eher nicht gut
+F21,F21: Subjektive Gesundheit,3,Eher gut
+F21,F21: Subjektive Gesundheit,4,Sehr gut
+F21,F21: Subjektive Gesundheit,888,Weiss nicht
+F21,F21: Subjektive Gesundheit,999,Keine Angabe
+F2201,"F22.1: Subjektive Lebenssituation - Ihr aktuelles Leben, alles in allem",1,Sehr schlecht
+F2201,"F22.1: Subjektive Lebenssituation - Ihr aktuelles Leben, alles in allem",2,Eher schlecht
+F2201,"F22.1: Subjektive Lebenssituation - Ihr aktuelles Leben, alles in allem",3,Eher gut
+F2201,"F22.1: Subjektive Lebenssituation - Ihr aktuelles Leben, alles in allem",4,Sehr gut
+F2201,"F22.1: Subjektive Lebenssituation - Ihr aktuelles Leben, alles in allem",888,Weiss nicht
+F2201,"F22.1: Subjektive Lebenssituation - Ihr aktuelles Leben, alles in allem",999,Keine Angabe
+F2202,F22.2: Subjektive Lebenssituation - Ihre Alltagsmobilität,1,Sehr schlecht
+F2202,F22.2: Subjektive Lebenssituation - Ihre Alltagsmobilität,2,Eher schlecht
+F2202,F22.2: Subjektive Lebenssituation - Ihre Alltagsmobilität,3,Eher gut
+F2202,F22.2: Subjektive Lebenssituation - Ihre Alltagsmobilität,4,Sehr gut
+F2202,F22.2: Subjektive Lebenssituation - Ihre Alltagsmobilität,888,Weiss nicht
+F2202,F22.2: Subjektive Lebenssituation - Ihre Alltagsmobilität,999,Keine Angabe
+F2203,F22.3: Subjektive Lebenssituation - Ihre sozialen Kontakte,1,Sehr schlecht
+F2203,F22.3: Subjektive Lebenssituation - Ihre sozialen Kontakte,2,Eher schlecht
+F2203,F22.3: Subjektive Lebenssituation - Ihre sozialen Kontakte,3,Eher gut
+F2203,F22.3: Subjektive Lebenssituation - Ihre sozialen Kontakte,4,Sehr gut
+F2203,F22.3: Subjektive Lebenssituation - Ihre sozialen Kontakte,888,Weiss nicht
+F2203,F22.3: Subjektive Lebenssituation - Ihre sozialen Kontakte,999,Keine Angabe
+F2204,F22.4: Subjektive Lebenssituation - Ihre finanzielle Situation,1,Sehr schlecht
+F2204,F22.4: Subjektive Lebenssituation - Ihre finanzielle Situation,2,Eher schlecht
+F2204,F22.4: Subjektive Lebenssituation - Ihre finanzielle Situation,3,Eher gut
+F2204,F22.4: Subjektive Lebenssituation - Ihre finanzielle Situation,4,Sehr gut
+F2204,F22.4: Subjektive Lebenssituation - Ihre finanzielle Situation,888,Weiss nicht
+F2204,F22.4: Subjektive Lebenssituation - Ihre finanzielle Situation,999,Keine Angabe
+F23,F23: Gesundheitsversorgung,1,Sehr unzufrieden
+F23,F23: Gesundheitsversorgung,2,Eher unzufrieden
+F23,F23: Gesundheitsversorgung,3,Eher zufrieden
+F23,F23: Gesundheitsversorgung,4,Sehr zufrieden
+F23,F23: Gesundheitsversorgung,888,Weiss nicht
+F23,F23: Gesundheitsversorgung,999,Keine Angabe
+F24,F24: Betreuung von Person mit Demenz,1,Ja
+F24,F24: Betreuung von Person mit Demenz,2,Nein
+F24,F24: Betreuung von Person mit Demenz,888,Weiss nicht
+F24,F24: Betreuung von Person mit Demenz,999,Keine Angabe
+F25_1,F25: Betreuung von Person mit Demenz - Wer? - Eltern/Schwiegereltern,0,No
+F25_1,F25: Betreuung von Person mit Demenz - Wer? - Eltern/Schwiegereltern,1,Yes
+F25_2,F25: Betreuung von Person mit Demenz - Wer? - Partner/in,0,No
+F25_2,F25: Betreuung von Person mit Demenz - Wer? - Partner/in,1,Yes
+F25_3,F25: Betreuung von Person mit Demenz - Wer? - Geschwister,0,No
+F25_3,F25: Betreuung von Person mit Demenz - Wer? - Geschwister,1,Yes
+F25_4,F25: Betreuung von Person mit Demenz - Wer? - Weitere Verwandte,0,No
+F25_4,F25: Betreuung von Person mit Demenz - Wer? - Weitere Verwandte,1,Yes
+F25_5,F25: Betreuung von Person mit Demenz - Wer? - Freunde oder Bekannte,0,No
+F25_5,F25: Betreuung von Person mit Demenz - Wer? - Freunde oder Bekannte,1,Yes
+F25_6,F25: Betreuung von Person mit Demenz - Wer? - Sonstige,0,No
+F25_6,F25: Betreuung von Person mit Demenz - Wer? - Sonstige,1,Yes
+F25_7,F25: Betreuung von Person mit Demenz - Wer? - Weiss nicht,0,No
+F25_7,F25: Betreuung von Person mit Demenz - Wer? - Weiss nicht,1,Yes
+F25_8,F25: Betreuung von Person mit Demenz - Wer? - Keine Angabe,0,No
+F25_8,F25: Betreuung von Person mit Demenz - Wer? - Keine Angabe,1,Yes
+F26,F26: Zufriedenheit Betreuungstätigkeit,1,Sehr schlecht
+F26,F26: Zufriedenheit Betreuungstätigkeit,2,Eher schlecht
+F26,F26: Zufriedenheit Betreuungstätigkeit,3,Eher gut
+F26,F26: Zufriedenheit Betreuungstätigkeit,4,Sehr gut
+F26,F26: Zufriedenheit Betreuungstätigkeit,888,Weiss nicht
+F26,F26: Zufriedenheit Betreuungstätigkeit,999,Keine Angabe
+F27,F27: Unterstützung von betreuenden Angehörigen,1,Sehr unzufrieden
+F27,F27: Unterstützung von betreuenden Angehörigen,2,Eher unzufrieden
+F27,F27: Unterstützung von betreuenden Angehörigen,3,Eher zufrieden
+F27,F27: Unterstützung von betreuenden Angehörigen,4,Sehr zufrieden
+F27,F27: Unterstützung von betreuenden Angehörigen,888,Weiss nicht
+F27,F27: Unterstützung von betreuenden Angehörigen,999,Keine Angabe
+F28,F28: Freiwillige Tätigkeiten jetzt,1,Ja
+F28,F28: Freiwillige Tätigkeiten jetzt,2,Nein
+F28,F28: Freiwillige Tätigkeiten jetzt,888,Weiss nicht
+F28,F28: Freiwillige Tätigkeiten jetzt,999,Keine Angabe
+F29,F29: Freiwillige Tätigkeiten Zukunft,1,"Nein, keinesfalls"
+F29,F29: Freiwillige Tätigkeiten Zukunft,2,Eher nicht
+F29,F29: Freiwillige Tätigkeiten Zukunft,3,"Ja, möglicherweise"
+F29,F29: Freiwillige Tätigkeiten Zukunft,4,"Ja, sicher"
+F29,F29: Freiwillige Tätigkeiten Zukunft,888,Weiss nicht
+F29,F29: Freiwillige Tätigkeiten Zukunft,999,Keine Angabe
+F3001,F30.1: Häufigkeit der Alltagsaktivitäten - Sich bewegen / Sport treiben (mehr als 15 Minuten),1,Nie
+F3001,F30.1: Häufigkeit der Alltagsaktivitäten - Sich bewegen / Sport treiben (mehr als 15 Minuten),2,Seltener
+F3001,F30.1: Häufigkeit der Alltagsaktivitäten - Sich bewegen / Sport treiben (mehr als 15 Minuten),3,Mind. einmal pro Monat
+F3001,F30.1: Häufigkeit der Alltagsaktivitäten - Sich bewegen / Sport treiben (mehr als 15 Minuten),4,Mind. einmal pro Woche
+F3001,F30.1: Häufigkeit der Alltagsaktivitäten - Sich bewegen / Sport treiben (mehr als 15 Minuten),5,Täglich oder fast täglich
+F3001,F30.1: Häufigkeit der Alltagsaktivitäten - Sich bewegen / Sport treiben (mehr als 15 Minuten),88,Nicht vorhanden / verstorben
+F3001,F30.1: Häufigkeit der Alltagsaktivitäten - Sich bewegen / Sport treiben (mehr als 15 Minuten),888,Weiss nicht
+F3001,F30.1: Häufigkeit der Alltagsaktivitäten - Sich bewegen / Sport treiben (mehr als 15 Minuten),999,Keine Angabe
+F3002,"F30.2: Häufigkeit der Alltagsaktivitäten - Kulturelle Veranstaltungen (z.B. Theater, Kino, Konzerte) besuchen",1,Nie
+F3002,"F30.2: Häufigkeit der Alltagsaktivitäten - Kulturelle Veranstaltungen (z.B. Theater, Kino, Konzerte) besuchen",2,Seltener
+F3002,"F30.2: Häufigkeit der Alltagsaktivitäten - Kulturelle Veranstaltungen (z.B. Theater, Kino, Konzerte) besuchen",3,Mind. einmal pro Monat
+F3002,"F30.2: Häufigkeit der Alltagsaktivitäten - Kulturelle Veranstaltungen (z.B. Theater, Kino, Konzerte) besuchen",4,Mind. einmal pro Woche
+F3002,"F30.2: Häufigkeit der Alltagsaktivitäten - Kulturelle Veranstaltungen (z.B. Theater, Kino, Konzerte) besuchen",5,Täglich oder fast täglich
+F3002,"F30.2: Häufigkeit der Alltagsaktivitäten - Kulturelle Veranstaltungen (z.B. Theater, Kino, Konzerte) besuchen",88,Nicht vorhanden / verstorben
+F3002,"F30.2: Häufigkeit der Alltagsaktivitäten - Kulturelle Veranstaltungen (z.B. Theater, Kino, Konzerte) besuchen",888,Weiss nicht
+F3002,"F30.2: Häufigkeit der Alltagsaktivitäten - Kulturelle Veranstaltungen (z.B. Theater, Kino, Konzerte) besuchen",999,Keine Angabe
+F3003,F30.3: Häufigkeit der Alltagsaktivitäten - Bildungs- oder Weiterbildungsangebote nutzen,1,Nie
+F3003,F30.3: Häufigkeit der Alltagsaktivitäten - Bildungs- oder Weiterbildungsangebote nutzen,2,Seltener
+F3003,F30.3: Häufigkeit der Alltagsaktivitäten - Bildungs- oder Weiterbildungsangebote nutzen,3,Mind. einmal pro Monat
+F3003,F30.3: Häufigkeit der Alltagsaktivitäten - Bildungs- oder Weiterbildungsangebote nutzen,4,Mind. einmal pro Woche
+F3003,F30.3: Häufigkeit der Alltagsaktivitäten - Bildungs- oder Weiterbildungsangebote nutzen,5,Täglich oder fast täglich
+F3003,F30.3: Häufigkeit der Alltagsaktivitäten - Bildungs- oder Weiterbildungsangebote nutzen,88,Nicht vorhanden / verstorben
+F3003,F30.3: Häufigkeit der Alltagsaktivitäten - Bildungs- oder Weiterbildungsangebote nutzen,888,Weiss nicht
+F3003,F30.3: Häufigkeit der Alltagsaktivitäten - Bildungs- oder Weiterbildungsangebote nutzen,999,Keine Angabe
+F3004,F30.4: Häufigkeit der Alltagsaktivitäten - Treffen mit engen Freunden,1,Nie
+F3004,F30.4: Häufigkeit der Alltagsaktivitäten - Treffen mit engen Freunden,2,Seltener
+F3004,F30.4: Häufigkeit der Alltagsaktivitäten - Treffen mit engen Freunden,3,Mind. einmal pro Monat
+F3004,F30.4: Häufigkeit der Alltagsaktivitäten - Treffen mit engen Freunden,4,Mind. einmal pro Woche
+F3004,F30.4: Häufigkeit der Alltagsaktivitäten - Treffen mit engen Freunden,5,Täglich oder fast täglich
+F3004,F30.4: Häufigkeit der Alltagsaktivitäten - Treffen mit engen Freunden,88,Nicht vorhanden / verstorben
+F3004,F30.4: Häufigkeit der Alltagsaktivitäten - Treffen mit engen Freunden,888,Weiss nicht
+F3004,F30.4: Häufigkeit der Alltagsaktivitäten - Treffen mit engen Freunden,999,Keine Angabe
+F3005,F30.5: Häufigkeit der Alltagsaktivitäten - Kurzausflüge,1,Nie
+F3005,F30.5: Häufigkeit der Alltagsaktivitäten - Kurzausflüge,2,Seltener
+F3005,F30.5: Häufigkeit der Alltagsaktivitäten - Kurzausflüge,3,Mind. einmal pro Monat
+F3005,F30.5: Häufigkeit der Alltagsaktivitäten - Kurzausflüge,4,Mind. einmal pro Woche
+F3005,F30.5: Häufigkeit der Alltagsaktivitäten - Kurzausflüge,5,Täglich oder fast täglich
+F3005,F30.5: Häufigkeit der Alltagsaktivitäten - Kurzausflüge,88,Nicht vorhanden / verstorben
+F3005,F30.5: Häufigkeit der Alltagsaktivitäten - Kurzausflüge,888,Weiss nicht
+F3005,F30.5: Häufigkeit der Alltagsaktivitäten - Kurzausflüge,999,Keine Angabe
+F3006,"F30.6: Häufigkeit der Alltagsaktivitäten - Handwerken, Gestalten oder Gartenarbeit",1,Nie
+F3006,"F30.6: Häufigkeit der Alltagsaktivitäten - Handwerken, Gestalten oder Gartenarbeit",2,Seltener
+F3006,"F30.6: Häufigkeit der Alltagsaktivitäten - Handwerken, Gestalten oder Gartenarbeit",3,Mind. einmal pro Monat
+F3006,"F30.6: Häufigkeit der Alltagsaktivitäten - Handwerken, Gestalten oder Gartenarbeit",4,Mind. einmal pro Woche
+F3006,"F30.6: Häufigkeit der Alltagsaktivitäten - Handwerken, Gestalten oder Gartenarbeit",5,Täglich oder fast täglich
+F3006,"F30.6: Häufigkeit der Alltagsaktivitäten - Handwerken, Gestalten oder Gartenarbeit",88,Nicht vorhanden / verstorben
+F3006,"F30.6: Häufigkeit der Alltagsaktivitäten - Handwerken, Gestalten oder Gartenarbeit",888,Weiss nicht
+F3006,"F30.6: Häufigkeit der Alltagsaktivitäten - Handwerken, Gestalten oder Gartenarbeit",999,Keine Angabe
+F3007,F30.7: Häufigkeit der Alltagsaktivitäten - Nutzen von Angeboten der Kirche (oder anderer Religionsgemeinschaften),1,Nie
+F3007,F30.7: Häufigkeit der Alltagsaktivitäten - Nutzen von Angeboten der Kirche (oder anderer Religionsgemeinschaften),2,Seltener
+F3007,F30.7: Häufigkeit der Alltagsaktivitäten - Nutzen von Angeboten der Kirche (oder anderer Religionsgemeinschaften),3,Mind. einmal pro Monat
+F3007,F30.7: Häufigkeit der Alltagsaktivitäten - Nutzen von Angeboten der Kirche (oder anderer Religionsgemeinschaften),4,Mind. einmal pro Woche
+F3007,F30.7: Häufigkeit der Alltagsaktivitäten - Nutzen von Angeboten der Kirche (oder anderer Religionsgemeinschaften),5,Täglich oder fast täglich
+F3007,F30.7: Häufigkeit der Alltagsaktivitäten - Nutzen von Angeboten der Kirche (oder anderer Religionsgemeinschaften),88,Nicht vorhanden / verstorben
+F3007,F30.7: Häufigkeit der Alltagsaktivitäten - Nutzen von Angeboten der Kirche (oder anderer Religionsgemeinschaften),888,Weiss nicht
+F3007,F30.7: Häufigkeit der Alltagsaktivitäten - Nutzen von Angeboten der Kirche (oder anderer Religionsgemeinschaften),999,Keine Angabe
+F3101,F31.1: Kenntnis und Nutzung - Fachstelle Zürich im Alter (früher: Beratungsstelle Wohnen im Alter und Präventive Beratung im Alter),1,Ja und bereits ein- oder mehrmals genutzt
+F3101,F31.1: Kenntnis und Nutzung - Fachstelle Zürich im Alter (früher: Beratungsstelle Wohnen im Alter und Präventive Beratung im Alter),2,"Noch nie genutzt, aber schon einmal davon gehört"
+F3101,F31.1: Kenntnis und Nutzung - Fachstelle Zürich im Alter (früher: Beratungsstelle Wohnen im Alter und Präventive Beratung im Alter),3,Nicht bekannt
+F3101,F31.1: Kenntnis und Nutzung - Fachstelle Zürich im Alter (früher: Beratungsstelle Wohnen im Alter und Präventive Beratung im Alter),888,Weiss nicht
+F3101,F31.1: Kenntnis und Nutzung - Fachstelle Zürich im Alter (früher: Beratungsstelle Wohnen im Alter und Präventive Beratung im Alter),999,Keine Angabe
+F3102,F31.2: Kenntnis und Nutzung - Webseite «Zürich im Alter» (früher: «Zueri60plus»),1,Ja und bereits ein- oder mehrmals genutzt
+F3102,F31.2: Kenntnis und Nutzung - Webseite «Zürich im Alter» (früher: «Zueri60plus»),2,"Noch nie genutzt, aber schon einmal davon gehört"
+F3102,F31.2: Kenntnis und Nutzung - Webseite «Zürich im Alter» (früher: «Zueri60plus»),3,Nicht bekannt
+F3102,F31.2: Kenntnis und Nutzung - Webseite «Zürich im Alter» (früher: «Zueri60plus»),888,Weiss nicht
+F3102,F31.2: Kenntnis und Nutzung - Webseite «Zürich im Alter» (früher: «Zueri60plus»),999,Keine Angabe
+F3103,F31.3: Kenntnis und Nutzung - Pro Senectute (Stadt Zürich),1,Ja und bereits ein- oder mehrmals genutzt
+F3103,F31.3: Kenntnis und Nutzung - Pro Senectute (Stadt Zürich),2,"Noch nie genutzt, aber schon einmal davon gehört"
+F3103,F31.3: Kenntnis und Nutzung - Pro Senectute (Stadt Zürich),3,Nicht bekannt
+F3103,F31.3: Kenntnis und Nutzung - Pro Senectute (Stadt Zürich),888,Weiss nicht
+F3103,F31.3: Kenntnis und Nutzung - Pro Senectute (Stadt Zürich),999,Keine Angabe
+F3104,F31.4: Kenntnis und Nutzung - Unabhängige Beschwerdestelle für das Alter (UBA),1,Ja und bereits ein- oder mehrmals genutzt
+F3104,F31.4: Kenntnis und Nutzung - Unabhängige Beschwerdestelle für das Alter (UBA),2,"Noch nie genutzt, aber schon einmal davon gehört"
+F3104,F31.4: Kenntnis und Nutzung - Unabhängige Beschwerdestelle für das Alter (UBA),3,Nicht bekannt
+F3104,F31.4: Kenntnis und Nutzung - Unabhängige Beschwerdestelle für das Alter (UBA),888,Weiss nicht
+F3104,F31.4: Kenntnis und Nutzung - Unabhängige Beschwerdestelle für das Alter (UBA),999,Keine Angabe
+F3105,F31.5: Kenntnis und Nutzung - Alzheimer Zürich oder Schweiz,1,Ja und bereits ein- oder mehrmals genutzt
+F3105,F31.5: Kenntnis und Nutzung - Alzheimer Zürich oder Schweiz,2,"Noch nie genutzt, aber schon einmal davon gehört"
+F3105,F31.5: Kenntnis und Nutzung - Alzheimer Zürich oder Schweiz,3,Nicht bekannt
+F3105,F31.5: Kenntnis und Nutzung - Alzheimer Zürich oder Schweiz,888,Weiss nicht
+F3105,F31.5: Kenntnis und Nutzung - Alzheimer Zürich oder Schweiz,999,Keine Angabe
+F3106,F31.6: Kenntnis und Nutzung - Pro Infirmis,1,Ja und bereits ein- oder mehrmals genutzt
+F3106,F31.6: Kenntnis und Nutzung - Pro Infirmis,2,"Noch nie genutzt, aber schon einmal davon gehört"
+F3106,F31.6: Kenntnis und Nutzung - Pro Infirmis,3,Nicht bekannt
+F3106,F31.6: Kenntnis und Nutzung - Pro Infirmis,888,Weiss nicht
+F3106,F31.6: Kenntnis und Nutzung - Pro Infirmis,999,Keine Angabe
+F3107,F31.7: Kenntnis und Nutzung - Rheumaliga,1,Ja und bereits ein- oder mehrmals genutzt
+F3107,F31.7: Kenntnis und Nutzung - Rheumaliga,2,"Noch nie genutzt, aber schon einmal davon gehört"
+F3107,F31.7: Kenntnis und Nutzung - Rheumaliga,3,Nicht bekannt
+F3107,F31.7: Kenntnis und Nutzung - Rheumaliga,888,Weiss nicht
+F3107,F31.7: Kenntnis und Nutzung - Rheumaliga,999,Keine Angabe
+F3108,F31.8: Kenntnis und Nutzung - Krebsliga,1,Ja und bereits ein- oder mehrmals genutzt
+F3108,F31.8: Kenntnis und Nutzung - Krebsliga,2,"Noch nie genutzt, aber schon einmal davon gehört"
+F3108,F31.8: Kenntnis und Nutzung - Krebsliga,3,Nicht bekannt
+F3108,F31.8: Kenntnis und Nutzung - Krebsliga,888,Weiss nicht
+F3108,F31.8: Kenntnis und Nutzung - Krebsliga,999,Keine Angabe
+F3109,F31.9: Kenntnis und Nutzung - Parkinsonvereinigung,1,Ja und bereits ein- oder mehrmals genutzt
+F3109,F31.9: Kenntnis und Nutzung - Parkinsonvereinigung,2,"Noch nie genutzt, aber schon einmal davon gehört"
+F3109,F31.9: Kenntnis und Nutzung - Parkinsonvereinigung,3,Nicht bekannt
+F3109,F31.9: Kenntnis und Nutzung - Parkinsonvereinigung,888,Weiss nicht
+F3109,F31.9: Kenntnis und Nutzung - Parkinsonvereinigung,999,Keine Angabe
+F3110,F31.10: Kenntnis und Nutzung - Zürcher Sehhilfe,1,Ja und bereits ein- oder mehrmals genutzt
+F3110,F31.10: Kenntnis und Nutzung - Zürcher Sehhilfe,2,"Noch nie genutzt, aber schon einmal davon gehört"
+F3110,F31.10: Kenntnis und Nutzung - Zürcher Sehhilfe,3,Nicht bekannt
+F3110,F31.10: Kenntnis und Nutzung - Zürcher Sehhilfe,888,Weiss nicht
+F3110,F31.10: Kenntnis und Nutzung - Zürcher Sehhilfe,999,Keine Angabe
+F3111,F31.11: Kenntnis und Nutzung - Pro Audito,1,Ja und bereits ein- oder mehrmals genutzt
+F3111,F31.11: Kenntnis und Nutzung - Pro Audito,2,"Noch nie genutzt, aber schon einmal davon gehört"
+F3111,F31.11: Kenntnis und Nutzung - Pro Audito,3,Nicht bekannt
+F3111,F31.11: Kenntnis und Nutzung - Pro Audito,888,Weiss nicht
+F3111,F31.11: Kenntnis und Nutzung - Pro Audito,999,Keine Angabe
+F3112,F31.12: Kenntnis und Nutzung - Gerontologische Beratungsstelle SiL,1,Ja und bereits ein- oder mehrmals genutzt
+F3112,F31.12: Kenntnis und Nutzung - Gerontologische Beratungsstelle SiL,2,"Noch nie genutzt, aber schon einmal davon gehört"
+F3112,F31.12: Kenntnis und Nutzung - Gerontologische Beratungsstelle SiL,3,Nicht bekannt
+F3112,F31.12: Kenntnis und Nutzung - Gerontologische Beratungsstelle SiL,888,Weiss nicht
+F3112,F31.12: Kenntnis und Nutzung - Gerontologische Beratungsstelle SiL,999,Keine Angabe
+F3113,F31.13: Kenntnis und Nutzung - HEKS Alter und Migration (AltuM),1,Ja und bereits ein- oder mehrmals genutzt
+F3113,F31.13: Kenntnis und Nutzung - HEKS Alter und Migration (AltuM),2,"Noch nie genutzt, aber schon einmal davon gehört"
+F3113,F31.13: Kenntnis und Nutzung - HEKS Alter und Migration (AltuM),3,Nicht bekannt
+F3113,F31.13: Kenntnis und Nutzung - HEKS Alter und Migration (AltuM),888,Weiss nicht
+F3113,F31.13: Kenntnis und Nutzung - HEKS Alter und Migration (AltuM),999,Keine Angabe
+F3114,F31.14: Kenntnis und Nutzung - Rotes Kreuz (SRK) Kanton Zürich,1,Ja und bereits ein- oder mehrmals genutzt
+F3114,F31.14: Kenntnis und Nutzung - Rotes Kreuz (SRK) Kanton Zürich,2,"Noch nie genutzt, aber schon einmal davon gehört"
+F3114,F31.14: Kenntnis und Nutzung - Rotes Kreuz (SRK) Kanton Zürich,3,Nicht bekannt
+F3114,F31.14: Kenntnis und Nutzung - Rotes Kreuz (SRK) Kanton Zürich,888,Weiss nicht
+F3114,F31.14: Kenntnis und Nutzung - Rotes Kreuz (SRK) Kanton Zürich,999,Keine Angabe
+F3115,F31.15: Kenntnis und Nutzung - Beratungsstelle Leben im Alter (LiA),1,Ja und bereits ein- oder mehrmals genutzt
+F3115,F31.15: Kenntnis und Nutzung - Beratungsstelle Leben im Alter (LiA),2,"Noch nie genutzt, aber schon einmal davon gehört"
+F3115,F31.15: Kenntnis und Nutzung - Beratungsstelle Leben im Alter (LiA),3,Nicht bekannt
+F3115,F31.15: Kenntnis und Nutzung - Beratungsstelle Leben im Alter (LiA),888,Weiss nicht
+F3115,F31.15: Kenntnis und Nutzung - Beratungsstelle Leben im Alter (LiA),999,Keine Angabe
+F32,F32: Zufriedenheit mit den Angeboten in der Stadt Zürich für ältere Menschen,1,Sehr unzufrieden
+F32,F32: Zufriedenheit mit den Angeboten in der Stadt Zürich für ältere Menschen,2,Eher unzufrieden
+F32,F32: Zufriedenheit mit den Angeboten in der Stadt Zürich für ältere Menschen,3,Eher zufrieden
+F32,F32: Zufriedenheit mit den Angeboten in der Stadt Zürich für ältere Menschen,4,Sehr zufrieden
+F32,F32: Zufriedenheit mit den Angeboten in der Stadt Zürich für ältere Menschen,888,Weiss nicht
+F32,F32: Zufriedenheit mit den Angeboten in der Stadt Zürich für ältere Menschen,999,Keine Angabe
+F33_1,F33: Probleme der Stadt - Digitale Produkte / Digitalisierung,0,No
+F33_1,F33: Probleme der Stadt - Digitale Produkte / Digitalisierung,1,Yes
+F33_2,F33: Probleme der Stadt - Sicherheit (auf der Strasse/dem Trottoir),0,No
+F33_2,F33: Probleme der Stadt - Sicherheit (auf der Strasse/dem Trottoir),1,Yes
+F33_3,F33: Probleme der Stadt - Altersgerechter ÖV,0,No
+F33_3,F33: Probleme der Stadt - Altersgerechter ÖV,1,Yes
+F33_4,F33: Probleme der Stadt - Alters- und Pflegeheim (Qualität und Angebot),0,No
+F33_4,F33: Probleme der Stadt - Alters- und Pflegeheim (Qualität und Angebot),1,Yes
+F33_5,F33: Probleme der Stadt - (Bedienung) VBZ-Automat,0,No
+F33_5,F33: Probleme der Stadt - (Bedienung) VBZ-Automat,1,Yes
+F33_6,F33: Probleme der Stadt - (Fehlende) Parkplätze,0,No
+F33_6,F33: Probleme der Stadt - (Fehlende) Parkplätze,1,Yes
+F33_7,F33: Probleme der Stadt - (Fehlende) Unterstützung/Pflege für ältere Leute,0,No
+F33_7,F33: Probleme der Stadt - (Fehlende) Unterstützung/Pflege für ältere Leute,1,Yes
+F33_8,F33: Probleme der Stadt - Vereinsamungen,0,No
+F33_8,F33: Probleme der Stadt - Vereinsamungen,1,Yes
+F33_9,F33: Probleme der Stadt - Altersarmut / Finanzielle Probleme,0,No
+F33_9,F33: Probleme der Stadt - Altersarmut / Finanzielle Probleme,1,Yes
+F33_10,F33: Probleme der Stadt - Solidarität / Unterstützung zwischen Generationen,0,No
+F33_10,F33: Probleme der Stadt - Solidarität / Unterstützung zwischen Generationen,1,Yes
+F33_11,F33: Probleme der Stadt - Wohnungsangebot,0,No
+F33_11,F33: Probleme der Stadt - Wohnungsangebot,1,Yes
+F33_12,F33: Probleme der Stadt - Bezahlbarkeit der (Alters)Wohnungen,0,No
+F33_12,F33: Probleme der Stadt - Bezahlbarkeit der (Alters)Wohnungen,1,Yes
+F33_13,F33: Probleme der Stadt - Anderes,0,No
+F33_13,F33: Probleme der Stadt - Anderes,1,Yes
+F33_14,F33: Probleme der Stadt - Keine Probleme,0,No
+F33_14,F33: Probleme der Stadt - Keine Probleme,1,Yes
+F33_15,F33: Probleme der Stadt - Weiss nicht,0,No
+F33_15,F33: Probleme der Stadt - Weiss nicht,1,Yes
+F33_16,F33: Probleme der Stadt - Keine Angabe,0,No
+F33_16,F33: Probleme der Stadt - Keine Angabe,1,Yes
+F34_1,F34: Was läuft gut? - Hilfsbereitschaft / Hilfe,0,No
+F34_1,F34: Was läuft gut? - Hilfsbereitschaft / Hilfe,1,Yes
+F34_2,F34: Was läuft gut? - Kulturelle Veranstaltungen/Freizeitangebote,0,No
+F34_2,F34: Was läuft gut? - Kulturelle Veranstaltungen/Freizeitangebote,1,Yes
+F34_3,F34: Was läuft gut? - Gesundheitsversorgung,0,No
+F34_3,F34: Was läuft gut? - Gesundheitsversorgung,1,Yes
+F34_4,F34: Was läuft gut? - Angebot an Alters-/Pflegezentren,0,No
+F34_4,F34: Was läuft gut? - Angebot an Alters-/Pflegezentren,1,Yes
+F34_5,F34: Was läuft gut? - Spitex / Angebote der Spitex,0,No
+F34_5,F34: Was läuft gut? - Spitex / Angebote der Spitex,1,Yes
+F34_6,F34: Was läuft gut? - Nähe zu Einkaufsgelegenheiten,0,No
+F34_6,F34: Was läuft gut? - Nähe zu Einkaufsgelegenheiten,1,Yes
+F34_7,F34: Was läuft gut? - Alles in der Nähe,0,No
+F34_7,F34: Was läuft gut? - Alles in der Nähe,1,Yes
+F34_8,F34: Was läuft gut? - öff. Grünflächen und Natur,0,No
+F34_8,F34: Was läuft gut? - öff. Grünflächen und Natur,1,Yes
+F34_9,F34: Was läuft gut? - Angebot für Senioren,0,No
+F34_9,F34: Was läuft gut? - Angebot für Senioren,1,Yes
+F34_10,"F34: Was läuft gut? - Hilfs-, Beratungs- und Betreuungsangebote",0,No
+F34_10,"F34: Was läuft gut? - Hilfs-, Beratungs- und Betreuungsangebote",1,Yes
+F34_11,F34: Was läuft gut? - ÖV-Angebot,0,No
+F34_11,F34: Was läuft gut? - ÖV-Angebot,1,Yes
+F34_12,F34: Was läuft gut? - Allgemeine positive Nennung / Anderes,0,No
+F34_12,F34: Was läuft gut? - Allgemeine positive Nennung / Anderes,1,Yes
+F34_13,F34: Was läuft gut? - Nichts,0,No
+F34_13,F34: Was läuft gut? - Nichts,1,Yes
+F34_14,F34: Was läuft gut? - Weiss nicht,0,No
+F34_14,F34: Was läuft gut? - Weiss nicht,1,Yes
+F34_15,F34: Was läuft gut? - Keine Angabe,0,No
+F34_15,F34: Was läuft gut? - Keine Angabe,1,Yes
+F35,F35: Altersfreundlich Stadt,1,Gar nicht altersfreundlich
+F35,F35: Altersfreundlich Stadt,2,Eher nicht altersfreundlich
+F35,F35: Altersfreundlich Stadt,3,Eher altersfreundlich
+F35,F35: Altersfreundlich Stadt,4,Sehr altersfreundlich
+F35,F35: Altersfreundlich Stadt,888,Weiss nicht
+F35,F35: Altersfreundlich Stadt,999,Keine Angabe
+F3601,F36.1: WHO age friendly cities - Der Gestaltung des öffentlichen Raums und der öffentlichen Gebäude,1,Gar nicht altersfreundlich
+F3601,F36.1: WHO age friendly cities - Der Gestaltung des öffentlichen Raums und der öffentlichen Gebäude,2,Eher nicht altersfreundlich
+F3601,F36.1: WHO age friendly cities - Der Gestaltung des öffentlichen Raums und der öffentlichen Gebäude,3,Eher altersfreundlich
+F3601,F36.1: WHO age friendly cities - Der Gestaltung des öffentlichen Raums und der öffentlichen Gebäude,4,Sehr altersfreundlich
+F3601,F36.1: WHO age friendly cities - Der Gestaltung des öffentlichen Raums und der öffentlichen Gebäude,888,Weiss nicht
+F3601,F36.1: WHO age friendly cities - Der Gestaltung des öffentlichen Raums und der öffentlichen Gebäude,999,Keine Angabe
+F3602,F36.2: WHO age friendly cities - Der Mobilität und des Verkehrs in der Stadt,1,Gar nicht altersfreundlich
+F3602,F36.2: WHO age friendly cities - Der Mobilität und des Verkehrs in der Stadt,2,Eher nicht altersfreundlich
+F3602,F36.2: WHO age friendly cities - Der Mobilität und des Verkehrs in der Stadt,3,Eher altersfreundlich
+F3602,F36.2: WHO age friendly cities - Der Mobilität und des Verkehrs in der Stadt,4,Sehr altersfreundlich
+F3602,F36.2: WHO age friendly cities - Der Mobilität und des Verkehrs in der Stadt,888,Weiss nicht
+F3602,F36.2: WHO age friendly cities - Der Mobilität und des Verkehrs in der Stadt,999,Keine Angabe
+F3603,F36.3: WHO age friendly cities - Des Wohnraums für ältere Menschen,1,Gar nicht altersfreundlich
+F3603,F36.3: WHO age friendly cities - Des Wohnraums für ältere Menschen,2,Eher nicht altersfreundlich
+F3603,F36.3: WHO age friendly cities - Des Wohnraums für ältere Menschen,3,Eher altersfreundlich
+F3603,F36.3: WHO age friendly cities - Des Wohnraums für ältere Menschen,4,Sehr altersfreundlich
+F3603,F36.3: WHO age friendly cities - Des Wohnraums für ältere Menschen,888,Weiss nicht
+F3603,F36.3: WHO age friendly cities - Des Wohnraums für ältere Menschen,999,Keine Angabe
+F3604,F36.4: WHO age friendly cities - Der Teilhabe am gesellschaftlichen Leben,1,Gar nicht altersfreundlich
+F3604,F36.4: WHO age friendly cities - Der Teilhabe am gesellschaftlichen Leben,2,Eher nicht altersfreundlich
+F3604,F36.4: WHO age friendly cities - Der Teilhabe am gesellschaftlichen Leben,3,Eher altersfreundlich
+F3604,F36.4: WHO age friendly cities - Der Teilhabe am gesellschaftlichen Leben,4,Sehr altersfreundlich
+F3604,F36.4: WHO age friendly cities - Der Teilhabe am gesellschaftlichen Leben,888,Weiss nicht
+F3604,F36.4: WHO age friendly cities - Der Teilhabe am gesellschaftlichen Leben,999,Keine Angabe
+F3605,F36.5: WHO age friendly cities - Des Respekts gegenüber älteren Menschen,1,Gar nicht altersfreundlich
+F3605,F36.5: WHO age friendly cities - Des Respekts gegenüber älteren Menschen,2,Eher nicht altersfreundlich
+F3605,F36.5: WHO age friendly cities - Des Respekts gegenüber älteren Menschen,3,Eher altersfreundlich
+F3605,F36.5: WHO age friendly cities - Des Respekts gegenüber älteren Menschen,4,Sehr altersfreundlich
+F3605,F36.5: WHO age friendly cities - Des Respekts gegenüber älteren Menschen,888,Weiss nicht
+F3605,F36.5: WHO age friendly cities - Des Respekts gegenüber älteren Menschen,999,Keine Angabe
+F3606,F36.6: WHO age friendly cities - Der Freiwilligenarbeit für ältere Menschen,1,Gar nicht altersfreundlich
+F3606,F36.6: WHO age friendly cities - Der Freiwilligenarbeit für ältere Menschen,2,Eher nicht altersfreundlich
+F3606,F36.6: WHO age friendly cities - Der Freiwilligenarbeit für ältere Menschen,3,Eher altersfreundlich
+F3606,F36.6: WHO age friendly cities - Der Freiwilligenarbeit für ältere Menschen,4,Sehr altersfreundlich
+F3606,F36.6: WHO age friendly cities - Der Freiwilligenarbeit für ältere Menschen,888,Weiss nicht
+F3606,F36.6: WHO age friendly cities - Der Freiwilligenarbeit für ältere Menschen,999,Keine Angabe
+F3607,F36.7: WHO age friendly cities - Des Zugangs zu Informationen für ältere Menschen,1,Gar nicht altersfreundlich
+F3607,F36.7: WHO age friendly cities - Des Zugangs zu Informationen für ältere Menschen,2,Eher nicht altersfreundlich
+F3607,F36.7: WHO age friendly cities - Des Zugangs zu Informationen für ältere Menschen,3,Eher altersfreundlich
+F3607,F36.7: WHO age friendly cities - Des Zugangs zu Informationen für ältere Menschen,4,Sehr altersfreundlich
+F3607,F36.7: WHO age friendly cities - Des Zugangs zu Informationen für ältere Menschen,888,Weiss nicht
+F3607,F36.7: WHO age friendly cities - Des Zugangs zu Informationen für ältere Menschen,999,Keine Angabe
+F3608,F36.8: WHO age friendly cities - Der Gesundheitsversorgung für ältere Menschen,1,Gar nicht altersfreundlich
+F3608,F36.8: WHO age friendly cities - Der Gesundheitsversorgung für ältere Menschen,2,Eher nicht altersfreundlich
+F3608,F36.8: WHO age friendly cities - Der Gesundheitsversorgung für ältere Menschen,3,Eher altersfreundlich
+F3608,F36.8: WHO age friendly cities - Der Gesundheitsversorgung für ältere Menschen,4,Sehr altersfreundlich
+F3608,F36.8: WHO age friendly cities - Der Gesundheitsversorgung für ältere Menschen,888,Weiss nicht
+F3608,F36.8: WHO age friendly cities - Der Gesundheitsversorgung für ältere Menschen,999,Keine Angabe
+F3701,F37.1: Nutzung Medien - Festnetztelefon,1,Nie oder besitze ich nicht
+F3701,F37.1: Nutzung Medien - Festnetztelefon,2,Seltener
+F3701,F37.1: Nutzung Medien - Festnetztelefon,3,Mind. einmal pro Monat
+F3701,F37.1: Nutzung Medien - Festnetztelefon,4,Mind. einmal pro Woche
+F3701,F37.1: Nutzung Medien - Festnetztelefon,5,Täglich oder fast täglich
+F3701,F37.1: Nutzung Medien - Festnetztelefon,888,Weiss nicht
+F3701,F37.1: Nutzung Medien - Festnetztelefon,999,Keine Angabe
+F3702,F37.2: Nutzung Medien - Fernseher,1,Nie oder besitze ich nicht
+F3702,F37.2: Nutzung Medien - Fernseher,2,Seltener
+F3702,F37.2: Nutzung Medien - Fernseher,3,Mind. einmal pro Monat
+F3702,F37.2: Nutzung Medien - Fernseher,4,Mind. einmal pro Woche
+F3702,F37.2: Nutzung Medien - Fernseher,5,Täglich oder fast täglich
+F3702,F37.2: Nutzung Medien - Fernseher,888,Weiss nicht
+F3702,F37.2: Nutzung Medien - Fernseher,999,Keine Angabe
+F3703,F37.3: Nutzung Medien - Radio,1,Nie oder besitze ich nicht
+F3703,F37.3: Nutzung Medien - Radio,2,Seltener
+F3703,F37.3: Nutzung Medien - Radio,3,Mind. einmal pro Monat
+F3703,F37.3: Nutzung Medien - Radio,4,Mind. einmal pro Woche
+F3703,F37.3: Nutzung Medien - Radio,5,Täglich oder fast täglich
+F3703,F37.3: Nutzung Medien - Radio,888,Weiss nicht
+F3703,F37.3: Nutzung Medien - Radio,999,Keine Angabe
+F3704,F37.4: Nutzung Medien - Internet,1,Nie oder besitze ich nicht
+F3704,F37.4: Nutzung Medien - Internet,2,Seltener
+F3704,F37.4: Nutzung Medien - Internet,3,Mind. einmal pro Monat
+F3704,F37.4: Nutzung Medien - Internet,4,Mind. einmal pro Woche
+F3704,F37.4: Nutzung Medien - Internet,5,Täglich oder fast täglich
+F3704,F37.4: Nutzung Medien - Internet,888,Weiss nicht
+F3704,F37.4: Nutzung Medien - Internet,999,Keine Angabe
+F3705,F37.5: Nutzung Medien - Smartphone (Mobiltelefon),1,Nie oder besitze ich nicht
+F3705,F37.5: Nutzung Medien - Smartphone (Mobiltelefon),2,Seltener
+F3705,F37.5: Nutzung Medien - Smartphone (Mobiltelefon),3,Mind. einmal pro Monat
+F3705,F37.5: Nutzung Medien - Smartphone (Mobiltelefon),4,Mind. einmal pro Woche
+F3705,F37.5: Nutzung Medien - Smartphone (Mobiltelefon),5,Täglich oder fast täglich
+F3705,F37.5: Nutzung Medien - Smartphone (Mobiltelefon),888,Weiss nicht
+F3705,F37.5: Nutzung Medien - Smartphone (Mobiltelefon),999,Keine Angabe
+F3706,"F37.6: Nutzung Medien - Tablet (z.B. iPad, Galaxy Tab)",1,Nie oder besitze ich nicht
+F3706,"F37.6: Nutzung Medien - Tablet (z.B. iPad, Galaxy Tab)",2,Seltener
+F3706,"F37.6: Nutzung Medien - Tablet (z.B. iPad, Galaxy Tab)",3,Mind. einmal pro Monat
+F3706,"F37.6: Nutzung Medien - Tablet (z.B. iPad, Galaxy Tab)",4,Mind. einmal pro Woche
+F3706,"F37.6: Nutzung Medien - Tablet (z.B. iPad, Galaxy Tab)",5,Täglich oder fast täglich
+F3706,"F37.6: Nutzung Medien - Tablet (z.B. iPad, Galaxy Tab)",888,Weiss nicht
+F3706,"F37.6: Nutzung Medien - Tablet (z.B. iPad, Galaxy Tab)",999,Keine Angabe
+F3707,F37.7: Nutzung Medien - Tageszeitungen und Magazine,1,Nie oder besitze ich nicht
+F3707,F37.7: Nutzung Medien - Tageszeitungen und Magazine,2,Seltener
+F3707,F37.7: Nutzung Medien - Tageszeitungen und Magazine,3,Mind. einmal pro Monat
+F3707,F37.7: Nutzung Medien - Tageszeitungen und Magazine,4,Mind. einmal pro Woche
+F3707,F37.7: Nutzung Medien - Tageszeitungen und Magazine,5,Täglich oder fast täglich
+F3707,F37.7: Nutzung Medien - Tageszeitungen und Magazine,888,Weiss nicht
+F3707,F37.7: Nutzung Medien - Tageszeitungen und Magazine,999,Keine Angabe
+F3708,F37.8: Nutzung Medien - Bücher,1,Nie oder besitze ich nicht
+F3708,F37.8: Nutzung Medien - Bücher,2,Seltener
+F3708,F37.8: Nutzung Medien - Bücher,3,Mind. einmal pro Monat
+F3708,F37.8: Nutzung Medien - Bücher,4,Mind. einmal pro Woche
+F3708,F37.8: Nutzung Medien - Bücher,5,Täglich oder fast täglich
+F3708,F37.8: Nutzung Medien - Bücher,888,Weiss nicht
+F3708,F37.8: Nutzung Medien - Bücher,999,Keine Angabe
+F3709,F37.9: Nutzung Medien - Hörbücher oder Podcasts,1,Nie oder besitze ich nicht
+F3709,F37.9: Nutzung Medien - Hörbücher oder Podcasts,2,Seltener
+F3709,F37.9: Nutzung Medien - Hörbücher oder Podcasts,3,Mind. einmal pro Monat
+F3709,F37.9: Nutzung Medien - Hörbücher oder Podcasts,4,Mind. einmal pro Woche
+F3709,F37.9: Nutzung Medien - Hörbücher oder Podcasts,5,Täglich oder fast täglich
+F3709,F37.9: Nutzung Medien - Hörbücher oder Podcasts,888,Weiss nicht
+F3709,F37.9: Nutzung Medien - Hörbücher oder Podcasts,999,Keine Angabe
+F38_1,F38: Gewünschte Kommunikationskanäle - Brief per Post,0,No
+F38_1,F38: Gewünschte Kommunikationskanäle - Brief per Post,1,Yes
+F38_2,F38: Gewünschte Kommunikationskanäle - Digitaler Newsletter (via E-Mail),0,No
+F38_2,F38: Gewünschte Kommunikationskanäle - Digitaler Newsletter (via E-Mail),1,Yes
+F38_3,F38: Gewünschte Kommunikationskanäle - Inserat in Quartierzeitung,0,No
+F38_3,F38: Gewünschte Kommunikationskanäle - Inserat in Quartierzeitung,1,Yes
+F38_4,F38: Gewünschte Kommunikationskanäle - Aushänge an städtischen Einrichtungen,0,No
+F38_4,F38: Gewünschte Kommunikationskanäle - Aushänge an städtischen Einrichtungen,1,Yes
+F38_5,F38: Gewünschte Kommunikationskanäle - Webseiten,0,No
+F38_5,F38: Gewünschte Kommunikationskanäle - Webseiten,1,Yes
+F38_6,F38: Gewünschte Kommunikationskanäle - Fernsehen / Radio,0,No
+F38_6,F38: Gewünschte Kommunikationskanäle - Fernsehen / Radio,1,Yes
+F38_7,F38: Gewünschte Kommunikationskanäle - Tageszeitung / Presse,0,No
+F38_7,F38: Gewünschte Kommunikationskanäle - Tageszeitung / Presse,1,Yes
+F38_8,F38: Gewünschte Kommunikationskanäle - Öffentliche Plakate,0,No
+F38_8,F38: Gewünschte Kommunikationskanäle - Öffentliche Plakate,1,Yes
+F38_9,F38: Gewünschte Kommunikationskanäle - Tagblatt,0,No
+F38_9,F38: Gewünschte Kommunikationskanäle - Tagblatt,1,Yes
+F38_10,F38: Gewünschte Kommunikationskanäle - Kein Bedarf/Bedürfnis,0,No
+F38_10,F38: Gewünschte Kommunikationskanäle - Kein Bedarf/Bedürfnis,1,Yes
+F38_11,F38: Gewünschte Kommunikationskanäle - Anderes,0,No
+F38_11,F38: Gewünschte Kommunikationskanäle - Anderes,1,Yes
+F38_12,F38: Gewünschte Kommunikationskanäle - Ich möchte gar nicht informiert werden,0,No
+F38_12,F38: Gewünschte Kommunikationskanäle - Ich möchte gar nicht informiert werden,1,Yes
+F38_13,F38: Gewünschte Kommunikationskanäle - Weiss nicht,0,No
+F38_13,F38: Gewünschte Kommunikationskanäle - Weiss nicht,1,Yes
+F38_14,F38: Gewünschte Kommunikationskanäle - Keine Angabe,0,No
+F38_14,F38: Gewünschte Kommunikationskanäle - Keine Angabe,1,Yes
+F39,F39: Wie gut fühle ich mich informiert?,1,Sehr schlecht
+F39,F39: Wie gut fühle ich mich informiert?,2,Eher schlecht
+F39,F39: Wie gut fühle ich mich informiert?,3,Eher gut
+F39,F39: Wie gut fühle ich mich informiert?,4,Sehr gut
+F39,F39: Wie gut fühle ich mich informiert?,888,Weiss nicht
+F39,F39: Wie gut fühle ich mich informiert?,999,Keine Angabe
+F4001,F40.1: Smart-Home-Lösungen - Fitnessarmband,1,Nutze ich
+F4001,F40.1: Smart-Home-Lösungen - Fitnessarmband,2,"Nutze ich nicht, wäre aber interessant"
+F4001,F40.1: Smart-Home-Lösungen - Fitnessarmband,3,Nutze ich nicht und interessiert mich auch nicht
+F4001,F40.1: Smart-Home-Lösungen - Fitnessarmband,4,Kenne ich nicht
+F4001,F40.1: Smart-Home-Lösungen - Fitnessarmband,888,Weiss nicht
+F4001,F40.1: Smart-Home-Lösungen - Fitnessarmband,999,Keine Angabe
+F4002,F40.2: Smart-Home-Lösungen - Smartwatch,1,Nutze ich
+F4002,F40.2: Smart-Home-Lösungen - Smartwatch,2,"Nutze ich nicht, wäre aber interessant"
+F4002,F40.2: Smart-Home-Lösungen - Smartwatch,3,Nutze ich nicht und interessiert mich auch nicht
+F4002,F40.2: Smart-Home-Lösungen - Smartwatch,4,Kenne ich nicht
+F4002,F40.2: Smart-Home-Lösungen - Smartwatch,888,Weiss nicht
+F4002,F40.2: Smart-Home-Lösungen - Smartwatch,999,Keine Angabe
+F4003,"F40.3: Smart-Home-Lösungen - Sprachgesteuerte persönliche Assistenz (z.B. Amazon «Alexa», Apple «Siri», Google «Ok, Google»)",1,Nutze ich
+F4003,"F40.3: Smart-Home-Lösungen - Sprachgesteuerte persönliche Assistenz (z.B. Amazon «Alexa», Apple «Siri», Google «Ok, Google»)",2,"Nutze ich nicht, wäre aber interessant"
+F4003,"F40.3: Smart-Home-Lösungen - Sprachgesteuerte persönliche Assistenz (z.B. Amazon «Alexa», Apple «Siri», Google «Ok, Google»)",3,Nutze ich nicht und interessiert mich auch nicht
+F4003,"F40.3: Smart-Home-Lösungen - Sprachgesteuerte persönliche Assistenz (z.B. Amazon «Alexa», Apple «Siri», Google «Ok, Google»)",4,Kenne ich nicht
+F4003,"F40.3: Smart-Home-Lösungen - Sprachgesteuerte persönliche Assistenz (z.B. Amazon «Alexa», Apple «Siri», Google «Ok, Google»)",888,Weiss nicht
+F4003,"F40.3: Smart-Home-Lösungen - Sprachgesteuerte persönliche Assistenz (z.B. Amazon «Alexa», Apple «Siri», Google «Ok, Google»)",999,Keine Angabe
+F4004,F40.4: Smart-Home-Lösungen - Smarte Haustechnik (z.B. WLAN gesteuerte Lampen),1,Nutze ich
+F4004,F40.4: Smart-Home-Lösungen - Smarte Haustechnik (z.B. WLAN gesteuerte Lampen),2,"Nutze ich nicht, wäre aber interessant"
+F4004,F40.4: Smart-Home-Lösungen - Smarte Haustechnik (z.B. WLAN gesteuerte Lampen),3,Nutze ich nicht und interessiert mich auch nicht
+F4004,F40.4: Smart-Home-Lösungen - Smarte Haustechnik (z.B. WLAN gesteuerte Lampen),4,Kenne ich nicht
+F4004,F40.4: Smart-Home-Lösungen - Smarte Haustechnik (z.B. WLAN gesteuerte Lampen),888,Weiss nicht
+F4004,F40.4: Smart-Home-Lösungen - Smarte Haustechnik (z.B. WLAN gesteuerte Lampen),999,Keine Angabe
+F4005,F40.5: Smart-Home-Lösungen - Notrufsystem (z.B. Notrufknopf),1,Nutze ich
+F4005,F40.5: Smart-Home-Lösungen - Notrufsystem (z.B. Notrufknopf),2,"Nutze ich nicht, wäre aber interessant"
+F4005,F40.5: Smart-Home-Lösungen - Notrufsystem (z.B. Notrufknopf),3,Nutze ich nicht und interessiert mich auch nicht
+F4005,F40.5: Smart-Home-Lösungen - Notrufsystem (z.B. Notrufknopf),4,Kenne ich nicht
+F4005,F40.5: Smart-Home-Lösungen - Notrufsystem (z.B. Notrufknopf),888,Weiss nicht
+F4005,F40.5: Smart-Home-Lösungen - Notrufsystem (z.B. Notrufknopf),999,Keine Angabe
+F4101,F41.1: Technikeinstellung - Ich wünsche mir mehr Unterstützung bei der Nutzung von neuen technischen Dingen,1,Trifft gar nicht zu
+F4101,F41.1: Technikeinstellung - Ich wünsche mir mehr Unterstützung bei der Nutzung von neuen technischen Dingen,2,Trifft eher nicht zu
+F4101,F41.1: Technikeinstellung - Ich wünsche mir mehr Unterstützung bei der Nutzung von neuen technischen Dingen,3,Trifft eher zu
+F4101,F41.1: Technikeinstellung - Ich wünsche mir mehr Unterstützung bei der Nutzung von neuen technischen Dingen,4,Trifft voll und ganz zu
+F4101,F41.1: Technikeinstellung - Ich wünsche mir mehr Unterstützung bei der Nutzung von neuen technischen Dingen,888,Weiss nicht
+F4101,F41.1: Technikeinstellung - Ich wünsche mir mehr Unterstützung bei der Nutzung von neuen technischen Dingen,999,Keine Angabe
+F4102,"F41.2: Technikeinstellung - Ich finde, es hat genug Angebote in der Stadt Zürich, um den Umgang mit neuen technischen Geräten zu erlernen",1,Trifft gar nicht zu
+F4102,"F41.2: Technikeinstellung - Ich finde, es hat genug Angebote in der Stadt Zürich, um den Umgang mit neuen technischen Geräten zu erlernen",2,Trifft eher nicht zu
+F4102,"F41.2: Technikeinstellung - Ich finde, es hat genug Angebote in der Stadt Zürich, um den Umgang mit neuen technischen Geräten zu erlernen",3,Trifft eher zu
+F4102,"F41.2: Technikeinstellung - Ich finde, es hat genug Angebote in der Stadt Zürich, um den Umgang mit neuen technischen Geräten zu erlernen",4,Trifft voll und ganz zu
+F4102,"F41.2: Technikeinstellung - Ich finde, es hat genug Angebote in der Stadt Zürich, um den Umgang mit neuen technischen Geräten zu erlernen",888,Weiss nicht
+F4102,"F41.2: Technikeinstellung - Ich finde, es hat genug Angebote in der Stadt Zürich, um den Umgang mit neuen technischen Geräten zu erlernen",999,Keine Angabe
+T_S0203,S02.3: Alter (gruppiert 2),1,65-79 Jahre
+T_S0203,S02.3: Alter (gruppiert 2),2,80+ Jahre
+S08_1,S08: Schlussbemerkungen - Dankbarkeit,0,No
+S08_1,S08: Schlussbemerkungen - Dankbarkeit,1,Yes
+S08_2,S08: Schlussbemerkungen - Generell zufrieden,0,No
+S08_2,S08: Schlussbemerkungen - Generell zufrieden,1,Yes
+S08_3,S08: Schlussbemerkungen - Rückmeldungen zur Altersbefragung,0,No
+S08_3,S08: Schlussbemerkungen - Rückmeldungen zur Altersbefragung,1,Yes
+S08_4,S08: Schlussbemerkungen - Interesse an Ergebnissen,0,No
+S08_4,S08: Schlussbemerkungen - Interesse an Ergebnissen,1,Yes
+S08_5,S08: Schlussbemerkungen - Kritik an Politik,0,No
+S08_5,S08: Schlussbemerkungen - Kritik an Politik,1,Yes
+S08_6,S08: Schlussbemerkungen - Abfallbekämpfung,0,No
+S08_6,S08: Schlussbemerkungen - Abfallbekämpfung,1,Yes
+S08_7,S08: Schlussbemerkungen - Mehr/günstiger Wohnraum für Ältere,0,No
+S08_7,S08: Schlussbemerkungen - Mehr/günstiger Wohnraum für Ältere,1,Yes
+S08_8,S08: Schlussbemerkungen - Verkehrspolitik,0,No
+S08_8,S08: Schlussbemerkungen - Verkehrspolitik,1,Yes
+S08_9,S08: Schlussbemerkungen - Sicherheitsmassnahmen,0,No
+S08_9,S08: Schlussbemerkungen - Sicherheitsmassnahmen,1,Yes
+S08_10,S08: Schlussbemerkungen - Mehr/bessere Betreuung für Ältere,0,No
+S08_10,S08: Schlussbemerkungen - Mehr/bessere Betreuung für Ältere,1,Yes
+S08_11,S08: Schlussbemerkungen - Anderes,0,No
+S08_11,S08: Schlussbemerkungen - Anderes,1,Yes
+S08_12,S08: Schlussbemerkungen - Keine Angabe,0,No
+S08_12,S08: Schlussbemerkungen - Keine Angabe,1,Yes
+K_KREIS,Sample: Stadtkreis,1,Kreis 1
+K_KREIS,Sample: Stadtkreis,2,Kreis 2
+K_KREIS,Sample: Stadtkreis,3,Kreis 3
+K_KREIS,Sample: Stadtkreis,4,Kreis 4
+K_KREIS,Sample: Stadtkreis,5,Kreis 5
+K_KREIS,Sample: Stadtkreis,6,Kreis 6
+K_KREIS,Sample: Stadtkreis,7,Kreis 7
+K_KREIS,Sample: Stadtkreis,8,Kreis 8
+K_KREIS,Sample: Stadtkreis,9,Kreis 9
+K_KREIS,Sample: Stadtkreis,10,Kreis 10
+K_KREIS,Sample: Stadtkreis,11,Kreis 11
+K_KREIS,Sample: Stadtkreis,12,Kreis 12
+K_GESCHLECHT,K_Geschlecht,1,Männlich
+K_GESCHLECHT,K_Geschlecht,2,Weiblich
+K_SCHICHT,Schichtvariable für die Gewichtung,,
+GEWICHT,Gewichtungsvariable - Total der Gewichte entspricht der Populationsgrösse,,
