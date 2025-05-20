@@ -11,7 +11,7 @@ The capstone project consists of three phases:
 - The capstone defense
 We will start with an overview of the requirements before giving a short overview over the three phases mentioned above. That way you know what to expect and what to prepare. Note that you will get more detailed information about writing your project proposal and the submission of your capstone project in the following units.
 
-Capstone project requirements
+Capstone project requirements <br>
 Let us start with an overview of the requirements for the capstone project. This final project will assess whether you have successfully acquired the relevant skills and knowledge presented in this program and hence successfully met the learning objectives of the program. They include
 
 Data Preparation
