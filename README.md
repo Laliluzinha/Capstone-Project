@@ -6,9 +6,9 @@ The capstone project is the final assessment of this program. We will use it to 
 
 The capstone project consists of three phases:
 
-The project proposal
-The project implementation
-The capstone defense
+- The project proposal
+- The project implementation
+- The capstone defense
 We will start with an overview of the requirements before giving a short overview over the three phases mentioned above. That way you know what to expect and what to prepare. Note that you will get more detailed information about writing your project proposal and the submission of your capstone project in the following units.
 
 Capstone project requirements
